@@ -116,19 +116,19 @@ with st.container():
     
      
      tabela_pivot = dados.pivot_table(
-     index='Product',         # As linhas serão os produtos
-     columns='Category',      # As colunas serão as categorias
-     values='Price Each',     # Os valores serão o faturamento (Price Each)
-     aggfunc='sum',           # Soma o faturamento para cada combinação
-     fill_value=0             # Substitui valores ausentes por 0
+     index='Product',        
+     columns='Category',     
+     values='Price Each',     
+     aggfunc='sum',          
+     fill_value=0            
      )
  
-           # Exibir a tabela dinâmica no Streamlit
+       
  
      st.write("###### Tabela de Faturamento por Produto e Categoria")
      st.markdown("")
      st.markdown("")
-     st.dataframe(tabela_pivot.style.format("R${:,.2f}"))  # Formatar valores como monetários
+     st.dataframe(tabela_pivot.style.format("R${:,.2f}"))  
   
 
 
