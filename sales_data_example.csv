@@ -1,0 +1,1001 @@
+Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address,Customer ID,Category
+ORD-1,Produto E,3,611.18,2024-04-24,858 Porto Alegre Street,1708,Alimentos
+ORD-2,Produto A,3,639.07,2024-04-01,570 Porto Alegre Street,4928,Esportes
+ORD-3,Produto E,2,427.21,2024-06-27,972 Porto Alegre Street,4761,Eletrônicos
+ORD-4,Produto C,3,340.23,2024-07-29,279 Porto Alegre Street,3729,Brinquedos
+ORD-5,Produto B,4,129.89,2024-03-09,879 Porto Alegre Street,1353,Esportes
+ORD-6,Produto B,4,513.94,2024-03-13,504 Curitiba Street,4349,Esportes
+ORD-7,Produto C,5,422.89,2024-07-27,306 Porto Alegre Street,3726,Roupas
+ORD-8,Produto C,5,886.78,2024-08-20,453 Rio de Janeiro Street,1296,Esportes
+ORD-9,Produto B,4,145.8,2024-02-27,400 Curitiba Street,3953,Eletrônicos
+ORD-10,Produto B,2,764.64,2024-05-22,319 Belo Horizonte Street,1179,Esportes
+ORD-11,Produto B,3,729.85,2024-05-10,185 Curitiba Street,3785,Brinquedos
+ORD-12,Produto C,1,924.31,2024-08-07,928 São Paulo Street,1760,Eletrônicos
+ORD-13,Produto D,3,91.76,2024-05-01,829 Porto Alegre Street,2442,Roupas
+ORD-14,Produto C,4,91.06,2024-08-26,982 São Paulo Street,3393,Alimentos
+ORD-15,Produto A,5,907.76,2024-06-30,678 Belo Horizonte Street,4533,Roupas
+ORD-16,Produto C,4,85.77,2024-05-05,628 Rio de Janeiro Street,2737,Eletrônicos
+ORD-17,Produto E,3,662.42,2024-03-15,188 Porto Alegre Street,1984,Eletrônicos
+ORD-18,Produto D,3,846.03,2024-02-11,913 Rio de Janeiro Street,1854,Eletrônicos
+ORD-19,Produto B,3,248.11,2024-09-28,163 Porto Alegre Street,2582,Alimentos
+ORD-20,Produto E,4,731.85,2024-01-15,933 Belo Horizonte Street,2636,Brinquedos
+ORD-21,Produto A,4,662.84,2024-06-12,687 Porto Alegre Street,2695,Roupas
+ORD-22,Produto E,5,840.86,2024-04-03,797 Belo Horizonte Street,4650,Eletrônicos
+ORD-23,Produto C,3,992.8,2024-02-23,103 Porto Alegre Street,2307,Roupas
+ORD-24,Produto D,5,584.18,2024-08-25,620 Porto Alegre Street,2624,Esportes
+ORD-25,Produto E,1,147.22,2024-01-20,298 Porto Alegre Street,3658,Brinquedos
+ORD-26,Produto D,5,380.69,2024-03-02,172 São Paulo Street,4467,Alimentos
+ORD-27,Produto C,1,839.96,2024-06-09,406 Belo Horizonte Street,3981,Alimentos
+ORD-28,Produto B,3,214.05,2024-02-07,920 Belo Horizonte Street,1178,Alimentos
+ORD-29,Produto E,3,781.09,2024-05-19,404 Porto Alegre Street,2777,Roupas
+ORD-30,Produto C,2,58.94,2024-08-14,294 Porto Alegre Street,4163,Eletrônicos
+ORD-31,Produto E,3,672.31,2024-01-13,620 Curitiba Street,2072,Roupas
+ORD-32,Produto A,5,443.49,2024-08-12,949 Porto Alegre Street,2703,Roupas
+ORD-33,Produto E,5,413.7,2024-05-22,787 Rio de Janeiro Street,4959,Roupas
+ORD-34,Produto C,2,750.36,2024-08-23,174 Porto Alegre Street,2172,Eletrônicos
+ORD-35,Produto B,1,131.69,2024-02-26,717 Rio de Janeiro Street,4230,Eletrônicos
+ORD-36,Produto E,1,939.2,2024-03-08,801 Curitiba Street,3902,Brinquedos
+ORD-37,Produto B,5,424.61,2024-01-12,173 Porto Alegre Street,2492,Esportes
+ORD-38,Produto B,5,821.54,2024-05-12,430 Rio de Janeiro Street,3281,Roupas
+ORD-39,Produto B,3,416.15,2024-08-10,555 Rio de Janeiro Street,4247,Alimentos
+ORD-40,Produto E,5,563.73,2024-02-17,761 Curitiba Street,4225,Alimentos
+ORD-41,Produto B,3,308.41,2024-03-11,955 São Paulo Street,2798,Esportes
+ORD-42,Produto A,4,515.95,2024-07-10,434 Porto Alegre Street,1468,Alimentos
+ORD-43,Produto A,3,396.03,2024-07-31,244 Rio de Janeiro Street,2497,Esportes
+ORD-44,Produto C,1,870.01,2024-06-30,940 Curitiba Street,2029,Eletrônicos
+ORD-45,Produto D,5,474.56,2024-06-25,520 Curitiba Street,2010,Brinquedos
+ORD-46,Produto B,3,83.26,2024-02-16,431 Porto Alegre Street,2202,Roupas
+ORD-47,Produto C,3,762.93,2024-01-03,820 Curitiba Street,3045,Alimentos
+ORD-48,Produto B,3,471.91,2024-09-07,380 Rio de Janeiro Street,3049,Esportes
+ORD-49,Produto D,1,570.34,2024-01-05,816 Rio de Janeiro Street,1770,Brinquedos
+ORD-50,Produto B,1,175.75,2024-02-09,766 Porto Alegre Street,3910,Esportes
+ORD-51,Produto E,1,92.86,2024-06-12,525 São Paulo Street,2787,Eletrônicos
+ORD-52,Produto A,5,742.16,2024-02-27,366 São Paulo Street,4334,Brinquedos
+ORD-53,Produto C,3,278.43,2024-03-04,726 Porto Alegre Street,4822,Roupas
+ORD-54,Produto D,1,750.06,2024-06-07,582 Belo Horizonte Street,1265,Eletrônicos
+ORD-55,Produto C,4,777.23,2024-04-17,177 Curitiba Street,2635,Alimentos
+ORD-56,Produto B,2,497.83,2024-06-15,541 Rio de Janeiro Street,2494,Brinquedos
+ORD-57,Produto D,1,41.3,2024-06-24,987 Belo Horizonte Street,1699,Brinquedos
+ORD-58,Produto B,1,576.81,2024-08-07,243 Curitiba Street,4376,Brinquedos
+ORD-59,Produto A,1,826.12,2024-05-01,939 Rio de Janeiro Street,4156,Alimentos
+ORD-60,Produto E,2,892.25,2024-04-29,960 Porto Alegre Street,4983,Eletrônicos
+ORD-61,Produto B,5,695.76,2024-08-04,480 Porto Alegre Street,4160,Eletrônicos
+ORD-62,Produto C,1,273.82,2024-02-24,960 Porto Alegre Street,3514,Roupas
+ORD-63,Produto E,4,422.26,2024-07-25,852 São Paulo Street,3533,Eletrônicos
+ORD-64,Produto E,1,480.55,2024-08-22,569 Belo Horizonte Street,2975,Alimentos
+ORD-65,Produto C,5,759.22,2024-08-12,225 Porto Alegre Street,1375,Esportes
+ORD-66,Produto E,4,479.75,2024-07-11,132 Curitiba Street,2614,Alimentos
+ORD-67,Produto D,3,803.51,2024-01-22,243 Rio de Janeiro Street,2349,Eletrônicos
+ORD-68,Produto B,3,532.23,2024-05-23,414 Porto Alegre Street,1556,Eletrônicos
+ORD-69,Produto B,3,904.82,2024-03-02,567 São Paulo Street,1556,Roupas
+ORD-70,Produto D,2,403.94,2024-07-06,708 Porto Alegre Street,2454,Brinquedos
+ORD-71,Produto B,3,39.68,2024-08-02,638 Porto Alegre Street,4822,Eletrônicos
+ORD-72,Produto E,4,617.41,2024-09-12,293 São Paulo Street,1686,Alimentos
+ORD-73,Produto D,3,803.55,2024-06-10,137 Rio de Janeiro Street,3873,Esportes
+ORD-74,Produto B,2,209.69,2024-09-27,292 Porto Alegre Street,1351,Eletrônicos
+ORD-75,Produto A,2,494.7,2024-04-20,226 Porto Alegre Street,2600,Esportes
+ORD-76,Produto E,4,39.4,2024-09-21,248 Rio de Janeiro Street,1760,Eletrônicos
+ORD-77,Produto C,5,511.11,2024-06-12,239 Rio de Janeiro Street,4877,Brinquedos
+ORD-78,Produto E,2,262.59,2024-04-02,956 Porto Alegre Street,4656,Esportes
+ORD-79,Produto E,1,469.24,2024-07-29,390 Rio de Janeiro Street,1307,Roupas
+ORD-80,Produto B,4,912.33,2024-04-28,629 Rio de Janeiro Street,2134,Roupas
+ORD-81,Produto E,2,26.52,2024-07-06,528 Curitiba Street,2573,Roupas
+ORD-82,Produto E,2,464.73,2024-01-10,622 São Paulo Street,4826,Brinquedos
+ORD-83,Produto B,3,733.89,2024-09-18,224 Porto Alegre Street,4309,Alimentos
+ORD-84,Produto E,5,600.14,2024-03-01,926 Curitiba Street,2101,Alimentos
+ORD-85,Produto B,2,511.18,2024-04-21,997 Rio de Janeiro Street,4052,Roupas
+ORD-86,Produto D,4,105.35,2024-01-26,351 Belo Horizonte Street,2992,Alimentos
+ORD-87,Produto C,3,159.75,2024-02-15,276 Curitiba Street,1144,Brinquedos
+ORD-88,Produto A,5,527.59,2024-05-18,126 Porto Alegre Street,4399,Brinquedos
+ORD-89,Produto A,2,896.15,2024-03-15,838 Porto Alegre Street,2201,Roupas
+ORD-90,Produto D,4,563.55,2024-01-31,875 São Paulo Street,3858,Alimentos
+ORD-91,Produto A,1,135.98,2024-02-02,646 Rio de Janeiro Street,4964,Esportes
+ORD-92,Produto E,2,465.7,2024-03-26,276 Porto Alegre Street,4534,Roupas
+ORD-93,Produto E,5,483.2,2024-02-07,483 Curitiba Street,4322,Alimentos
+ORD-94,Produto C,2,595.06,2024-01-25,259 Porto Alegre Street,2644,Alimentos
+ORD-95,Produto B,1,677.68,2024-05-18,428 Porto Alegre Street,4672,Eletrônicos
+ORD-96,Produto E,1,295.88,2024-03-24,379 São Paulo Street,4351,Alimentos
+ORD-97,Produto C,5,847.52,2024-09-20,651 Rio de Janeiro Street,4532,Alimentos
+ORD-98,Produto B,5,177.66,2024-08-29,168 Curitiba Street,2345,Brinquedos
+ORD-99,Produto B,4,803.36,2024-07-27,783 Rio de Janeiro Street,2044,Esportes
+ORD-100,Produto A,1,739.84,2024-02-09,543 Rio de Janeiro Street,4181,Esportes
+ORD-101,Produto C,2,444.58,2024-09-30,908 Belo Horizonte Street,1260,Eletrônicos
+ORD-102,Produto C,1,938.6,2024-08-29,560 São Paulo Street,3487,Esportes
+ORD-103,Produto E,4,192.92,2024-07-26,752 Rio de Janeiro Street,4729,Esportes
+ORD-104,Produto A,1,596.7,2024-05-18,945 Rio de Janeiro Street,4127,Eletrônicos
+ORD-105,Produto A,4,82.75,2024-02-19,404 Belo Horizonte Street,4527,Eletrônicos
+ORD-106,Produto D,1,498.25,2024-09-07,438 Rio de Janeiro Street,3051,Alimentos
+ORD-107,Produto A,4,910.12,2024-06-23,764 Rio de Janeiro Street,3130,Eletrônicos
+ORD-108,Produto B,3,949.37,2024-01-27,697 São Paulo Street,3010,Roupas
+ORD-109,Produto A,3,30.53,2024-09-18,871 Rio de Janeiro Street,2813,Roupas
+ORD-110,Produto D,2,712.43,2024-07-18,987 Belo Horizonte Street,1241,Eletrônicos
+ORD-111,Produto E,5,138.16,2024-02-20,767 Curitiba Street,1253,Eletrônicos
+ORD-112,Produto B,1,986.35,2024-06-29,902 São Paulo Street,2237,Alimentos
+ORD-113,Produto A,3,645.7,2024-09-30,166 São Paulo Street,3288,Esportes
+ORD-114,Produto A,2,152.28,2024-08-02,270 Porto Alegre Street,1904,Roupas
+ORD-115,Produto C,3,95.95,2024-09-01,629 Belo Horizonte Street,2058,Roupas
+ORD-116,Produto D,1,752.94,2024-06-13,287 Rio de Janeiro Street,4056,Esportes
+ORD-117,Produto D,2,447.92,2024-01-08,444 Porto Alegre Street,2427,Esportes
+ORD-118,Produto C,3,793.89,2024-01-06,145 Curitiba Street,4042,Eletrônicos
+ORD-119,Produto C,2,473.98,2024-05-12,736 São Paulo Street,4954,Brinquedos
+ORD-120,Produto E,2,664.42,2024-09-20,567 Belo Horizonte Street,2967,Eletrônicos
+ORD-121,Produto A,3,123.48,2024-07-16,687 Rio de Janeiro Street,2702,Eletrônicos
+ORD-122,Produto E,5,510.78,2024-09-29,379 Belo Horizonte Street,3526,Alimentos
+ORD-123,Produto B,5,697.68,2024-08-06,916 São Paulo Street,4687,Brinquedos
+ORD-124,Produto B,4,755.7,2024-05-29,369 Porto Alegre Street,4294,Alimentos
+ORD-125,Produto B,5,241.44,2024-05-15,802 São Paulo Street,1399,Eletrônicos
+ORD-126,Produto D,4,638.23,2024-01-20,943 Porto Alegre Street,3968,Alimentos
+ORD-127,Produto C,2,267.72,2024-03-17,137 Belo Horizonte Street,4823,Alimentos
+ORD-128,Produto C,5,308.12,2024-06-10,475 Curitiba Street,4699,Roupas
+ORD-129,Produto C,5,406.62,2024-09-23,235 Curitiba Street,3228,Roupas
+ORD-130,Produto A,5,217.55,2024-06-24,584 Rio de Janeiro Street,1885,Eletrônicos
+ORD-131,Produto D,2,83.15,2024-06-06,830 Porto Alegre Street,4266,Alimentos
+ORD-132,Produto B,4,592.27,2024-08-29,600 Belo Horizonte Street,4275,Roupas
+ORD-133,Produto A,3,578.33,2024-09-07,587 Belo Horizonte Street,2212,Brinquedos
+ORD-134,Produto E,5,126.65,2024-01-25,410 Rio de Janeiro Street,4460,Esportes
+ORD-135,Produto E,2,946.76,2024-03-03,905 São Paulo Street,4387,Esportes
+ORD-136,Produto A,3,751.29,2024-08-07,970 Rio de Janeiro Street,4280,Eletrônicos
+ORD-137,Produto D,3,112.86,2024-06-16,268 Porto Alegre Street,2236,Eletrônicos
+ORD-138,Produto E,1,80.35,2024-01-17,518 Belo Horizonte Street,2851,Eletrônicos
+ORD-139,Produto E,1,651.24,2024-02-13,894 Belo Horizonte Street,2185,Roupas
+ORD-140,Produto B,4,557.57,2024-01-22,897 São Paulo Street,2058,Alimentos
+ORD-141,Produto A,3,521.47,2024-05-05,139 Curitiba Street,1252,Brinquedos
+ORD-142,Produto A,2,379.69,2024-07-14,322 São Paulo Street,1024,Brinquedos
+ORD-143,Produto C,2,261.57,2024-09-08,260 Belo Horizonte Street,1365,Eletrônicos
+ORD-144,Produto D,4,697.47,2024-03-01,855 Curitiba Street,4944,Brinquedos
+ORD-145,Produto B,4,929.76,2024-07-23,325 Curitiba Street,3671,Esportes
+ORD-146,Produto D,2,611.4,2024-07-31,845 Rio de Janeiro Street,2630,Roupas
+ORD-147,Produto C,4,65.86,2024-06-13,133 Curitiba Street,3678,Eletrônicos
+ORD-148,Produto D,4,649.01,2024-02-01,700 Rio de Janeiro Street,2371,Esportes
+ORD-149,Produto E,4,83.65,2024-05-25,787 Curitiba Street,2381,Roupas
+ORD-150,Produto E,3,980.26,2024-02-01,327 Porto Alegre Street,4029,Roupas
+ORD-151,Produto C,4,797.87,2024-05-07,796 Porto Alegre Street,3005,Esportes
+ORD-152,Produto D,3,622.95,2024-09-22,295 São Paulo Street,3815,Esportes
+ORD-153,Produto B,5,422.96,2024-02-02,141 Rio de Janeiro Street,4830,Roupas
+ORD-154,Produto C,2,733.31,2024-08-06,986 Belo Horizonte Street,4312,Brinquedos
+ORD-155,Produto C,2,81.76,2024-06-28,722 Porto Alegre Street,4555,Roupas
+ORD-156,Produto E,5,866.93,2024-03-20,958 Curitiba Street,1816,Brinquedos
+ORD-157,Produto A,4,290.09,2024-01-24,521 Belo Horizonte Street,1725,Alimentos
+ORD-158,Produto B,3,25.98,2024-07-03,548 Porto Alegre Street,2051,Alimentos
+ORD-159,Produto B,4,514.46,2024-08-13,928 Porto Alegre Street,3249,Esportes
+ORD-160,Produto A,1,193.75,2024-03-20,341 Curitiba Street,2923,Alimentos
+ORD-161,Produto C,1,679.27,2024-03-20,874 Belo Horizonte Street,1965,Brinquedos
+ORD-162,Produto C,3,849.58,2024-03-16,781 São Paulo Street,2767,Alimentos
+ORD-163,Produto A,5,469.59,2024-08-16,246 Belo Horizonte Street,3784,Eletrônicos
+ORD-164,Produto A,4,499.32,2024-10-01,309 São Paulo Street,1793,Esportes
+ORD-165,Produto C,3,144.62,2024-06-28,545 Porto Alegre Street,3770,Esportes
+ORD-166,Produto B,1,37.4,2024-01-25,903 Rio de Janeiro Street,3228,Eletrônicos
+ORD-167,Produto C,2,926.85,2024-05-07,331 Rio de Janeiro Street,1165,Brinquedos
+ORD-168,Produto D,5,329.83,2024-08-30,594 São Paulo Street,3029,Brinquedos
+ORD-169,Produto A,4,931.41,2024-06-27,375 Curitiba Street,1727,Esportes
+ORD-170,Produto E,5,579.04,2024-02-16,691 Belo Horizonte Street,4814,Alimentos
+ORD-171,Produto B,5,697.21,2024-06-08,955 Curitiba Street,3229,Esportes
+ORD-172,Produto D,5,638.44,2024-06-28,166 São Paulo Street,1605,Eletrônicos
+ORD-173,Produto E,5,721.73,2024-08-22,689 São Paulo Street,4645,Esportes
+ORD-174,Produto C,5,731.86,2024-08-26,780 Rio de Janeiro Street,3113,Alimentos
+ORD-175,Produto C,2,376.18,2024-03-20,626 Curitiba Street,3425,Roupas
+ORD-176,Produto B,4,989.79,2024-04-26,953 Porto Alegre Street,3997,Roupas
+ORD-177,Produto B,5,206.52,2024-05-26,717 Rio de Janeiro Street,1434,Alimentos
+ORD-178,Produto C,4,37.9,2024-03-23,775 São Paulo Street,4767,Brinquedos
+ORD-179,Produto B,1,635.3,2024-08-09,882 Porto Alegre Street,2022,Alimentos
+ORD-180,Produto E,1,668.74,2024-08-08,818 São Paulo Street,2785,Alimentos
+ORD-181,Produto A,1,465.27,2024-07-08,465 Porto Alegre Street,2672,Esportes
+ORD-182,Produto C,5,802.88,2024-05-04,553 São Paulo Street,3070,Eletrônicos
+ORD-183,Produto E,4,111.89,2024-05-09,618 São Paulo Street,4246,Brinquedos
+ORD-184,Produto D,2,851.38,2024-07-31,233 Belo Horizonte Street,4909,Esportes
+ORD-185,Produto E,4,244.06,2024-01-18,293 Curitiba Street,3201,Esportes
+ORD-186,Produto E,3,765.86,2024-04-17,393 Porto Alegre Street,3745,Roupas
+ORD-187,Produto C,3,334.78,2024-02-29,781 São Paulo Street,3858,Esportes
+ORD-188,Produto E,2,93.59,2024-09-17,885 Porto Alegre Street,4410,Brinquedos
+ORD-189,Produto B,1,533.32,2024-02-03,640 Curitiba Street,2000,Eletrônicos
+ORD-190,Produto B,1,475.72,2024-03-12,943 São Paulo Street,2176,Brinquedos
+ORD-191,Produto A,3,119.05,2024-04-28,530 Porto Alegre Street,4235,Roupas
+ORD-192,Produto C,5,504.19,2024-10-01,356 Rio de Janeiro Street,1968,Roupas
+ORD-193,Produto B,3,539.56,2024-04-14,291 Porto Alegre Street,2773,Roupas
+ORD-194,Produto D,2,637.9,2024-05-02,595 Porto Alegre Street,1534,Brinquedos
+ORD-195,Produto D,5,337.75,2024-04-09,389 São Paulo Street,4703,Esportes
+ORD-196,Produto D,2,174.05,2024-06-12,197 São Paulo Street,3918,Brinquedos
+ORD-197,Produto A,1,551.2,2024-05-27,140 Porto Alegre Street,1124,Eletrônicos
+ORD-198,Produto C,2,803.03,2024-03-04,883 Porto Alegre Street,3834,Brinquedos
+ORD-199,Produto A,5,738.85,2024-07-19,905 Belo Horizonte Street,2756,Roupas
+ORD-200,Produto C,3,767.05,2024-05-09,939 Curitiba Street,3065,Eletrônicos
+ORD-201,Produto E,3,987.28,2024-07-16,291 Curitiba Street,4975,Roupas
+ORD-202,Produto C,5,703.49,2024-03-19,892 Curitiba Street,4779,Roupas
+ORD-203,Produto C,3,615.89,2024-03-11,844 Porto Alegre Street,3666,Esportes
+ORD-204,Produto D,3,200.34,2024-01-18,284 Rio de Janeiro Street,2147,Brinquedos
+ORD-205,Produto B,5,355.26,2024-03-17,287 Porto Alegre Street,1691,Eletrônicos
+ORD-206,Produto A,3,811.5,2024-02-25,753 Belo Horizonte Street,1915,Esportes
+ORD-207,Produto A,4,648.74,2024-04-02,164 São Paulo Street,1956,Roupas
+ORD-208,Produto D,3,712.62,2024-01-11,241 Rio de Janeiro Street,2056,Brinquedos
+ORD-209,Produto A,5,223.12,2024-02-28,129 Belo Horizonte Street,4903,Eletrônicos
+ORD-210,Produto C,3,197.68,2024-04-21,517 Porto Alegre Street,4797,Alimentos
+ORD-211,Produto A,2,553.2,2024-08-31,587 Rio de Janeiro Street,1385,Alimentos
+ORD-212,Produto E,4,116.14,2024-05-28,453 Belo Horizonte Street,1174,Roupas
+ORD-213,Produto D,4,813.65,2024-01-29,110 Belo Horizonte Street,2001,Eletrônicos
+ORD-214,Produto A,4,330.81,2024-04-12,889 Rio de Janeiro Street,2155,Alimentos
+ORD-215,Produto C,3,413.82,2024-03-14,138 Belo Horizonte Street,4933,Eletrônicos
+ORD-216,Produto B,1,593.09,2024-03-10,989 Curitiba Street,2939,Brinquedos
+ORD-217,Produto C,1,731.46,2024-05-18,921 Porto Alegre Street,3789,Alimentos
+ORD-218,Produto C,3,342.75,2024-05-03,750 Curitiba Street,2172,Eletrônicos
+ORD-219,Produto E,5,542.33,2024-06-19,673 Porto Alegre Street,1573,Alimentos
+ORD-220,Produto D,1,617.83,2024-05-05,207 Belo Horizonte Street,4568,Alimentos
+ORD-221,Produto A,1,139.19,2024-05-19,430 São Paulo Street,3941,Roupas
+ORD-222,Produto D,1,98.76,2024-04-30,832 Rio de Janeiro Street,4560,Roupas
+ORD-223,Produto C,1,333.61,2024-09-09,967 São Paulo Street,3497,Roupas
+ORD-224,Produto A,1,742.0,2024-09-04,469 Rio de Janeiro Street,4819,Eletrônicos
+ORD-225,Produto E,3,872.46,2024-07-28,819 São Paulo Street,1019,Esportes
+ORD-226,Produto E,3,105.75,2024-02-28,291 São Paulo Street,4302,Esportes
+ORD-227,Produto E,2,366.25,2024-01-10,152 São Paulo Street,3098,Roupas
+ORD-228,Produto A,5,390.52,2024-08-02,943 São Paulo Street,2105,Roupas
+ORD-229,Produto D,4,851.88,2024-05-14,369 Curitiba Street,3819,Esportes
+ORD-230,Produto D,5,996.74,2024-02-01,890 Porto Alegre Street,2804,Alimentos
+ORD-231,Produto D,5,286.0,2024-01-17,220 Curitiba Street,1361,Eletrônicos
+ORD-232,Produto A,4,592.9,2024-04-25,630 São Paulo Street,1750,Esportes
+ORD-233,Produto A,5,543.78,2024-04-23,422 São Paulo Street,2516,Brinquedos
+ORD-234,Produto D,3,635.3,2024-05-24,608 Belo Horizonte Street,1288,Roupas
+ORD-235,Produto B,1,550.18,2024-09-30,386 Rio de Janeiro Street,4725,Eletrônicos
+ORD-236,Produto C,2,974.55,2024-09-07,262 Rio de Janeiro Street,1193,Roupas
+ORD-237,Produto A,2,510.75,2024-05-28,728 Porto Alegre Street,1685,Roupas
+ORD-238,Produto B,2,770.51,2024-05-27,559 Rio de Janeiro Street,3645,Alimentos
+ORD-239,Produto D,3,710.95,2024-02-01,698 Curitiba Street,1230,Brinquedos
+ORD-240,Produto A,4,554.34,2024-09-28,978 Belo Horizonte Street,4846,Brinquedos
+ORD-241,Produto E,5,186.6,2024-01-28,553 Rio de Janeiro Street,4701,Brinquedos
+ORD-242,Produto D,4,331.31,2024-02-20,604 Rio de Janeiro Street,3754,Esportes
+ORD-243,Produto C,5,374.99,2024-09-03,484 Belo Horizonte Street,4248,Esportes
+ORD-244,Produto B,3,648.17,2024-01-20,832 Curitiba Street,2176,Brinquedos
+ORD-245,Produto B,5,416.11,2024-02-15,825 Curitiba Street,1350,Brinquedos
+ORD-246,Produto E,3,429.13,2024-08-28,191 Curitiba Street,4887,Roupas
+ORD-247,Produto D,4,775.0,2024-04-07,472 Belo Horizonte Street,2213,Alimentos
+ORD-248,Produto C,2,779.7,2024-09-17,381 Rio de Janeiro Street,2725,Roupas
+ORD-249,Produto D,3,180.86,2024-02-28,276 Belo Horizonte Street,2132,Brinquedos
+ORD-250,Produto B,4,349.68,2024-01-16,483 Rio de Janeiro Street,3691,Esportes
+ORD-251,Produto B,3,918.17,2024-03-04,394 Porto Alegre Street,4153,Brinquedos
+ORD-252,Produto C,1,613.55,2024-09-17,153 Rio de Janeiro Street,1405,Esportes
+ORD-253,Produto A,2,274.29,2024-03-16,358 Porto Alegre Street,3658,Esportes
+ORD-254,Produto D,5,662.21,2024-05-18,284 Porto Alegre Street,1527,Esportes
+ORD-255,Produto D,1,547.34,2024-06-30,692 Curitiba Street,2354,Eletrônicos
+ORD-256,Produto D,2,261.25,2024-06-11,750 Belo Horizonte Street,4606,Alimentos
+ORD-257,Produto D,4,400.76,2024-09-12,310 Belo Horizonte Street,3500,Brinquedos
+ORD-258,Produto D,1,875.45,2024-03-19,537 Rio de Janeiro Street,3470,Esportes
+ORD-259,Produto A,2,466.18,2024-05-24,731 Curitiba Street,4390,Roupas
+ORD-260,Produto C,2,656.93,2024-08-09,995 Curitiba Street,4271,Roupas
+ORD-261,Produto D,2,239.03,2024-06-16,431 Porto Alegre Street,3297,Alimentos
+ORD-262,Produto D,1,13.81,2024-09-12,255 Rio de Janeiro Street,1181,Eletrônicos
+ORD-263,Produto E,3,587.06,2024-02-24,399 Curitiba Street,3864,Alimentos
+ORD-264,Produto D,5,772.31,2024-06-20,333 Belo Horizonte Street,1520,Eletrônicos
+ORD-265,Produto A,5,174.69,2024-03-20,131 Rio de Janeiro Street,4604,Esportes
+ORD-266,Produto A,2,429.18,2024-02-11,848 Porto Alegre Street,2544,Eletrônicos
+ORD-267,Produto C,4,52.02,2024-01-16,835 Belo Horizonte Street,2210,Roupas
+ORD-268,Produto B,5,998.59,2024-09-19,815 Belo Horizonte Street,1252,Eletrônicos
+ORD-269,Produto A,4,102.89,2024-09-11,176 Porto Alegre Street,3370,Esportes
+ORD-270,Produto E,1,302.85,2024-07-06,613 Rio de Janeiro Street,2556,Eletrônicos
+ORD-271,Produto D,1,231.27,2024-08-31,446 Rio de Janeiro Street,3999,Roupas
+ORD-272,Produto C,2,410.15,2024-05-21,823 São Paulo Street,1646,Alimentos
+ORD-273,Produto C,2,886.0,2024-02-17,477 Belo Horizonte Street,4367,Eletrônicos
+ORD-274,Produto A,5,817.92,2024-07-16,210 Porto Alegre Street,2732,Esportes
+ORD-275,Produto A,4,385.67,2024-02-29,756 São Paulo Street,3579,Esportes
+ORD-276,Produto B,4,202.15,2024-06-17,187 Rio de Janeiro Street,4431,Esportes
+ORD-277,Produto D,4,917.35,2024-05-28,149 Porto Alegre Street,4793,Eletrônicos
+ORD-278,Produto B,3,691.14,2024-04-08,365 Porto Alegre Street,4425,Alimentos
+ORD-279,Produto C,4,493.18,2024-08-28,712 Porto Alegre Street,4877,Brinquedos
+ORD-280,Produto B,2,450.28,2024-09-01,733 Curitiba Street,3150,Esportes
+ORD-281,Produto C,5,664.48,2024-04-21,480 Rio de Janeiro Street,3165,Brinquedos
+ORD-282,Produto A,3,348.1,2024-09-17,337 Rio de Janeiro Street,2468,Roupas
+ORD-283,Produto C,4,123.73,2024-06-07,656 Belo Horizonte Street,1524,Eletrônicos
+ORD-284,Produto A,3,425.04,2024-05-12,775 Belo Horizonte Street,1260,Esportes
+ORD-285,Produto B,1,691.25,2024-02-07,943 São Paulo Street,3641,Brinquedos
+ORD-286,Produto A,1,184.69,2024-05-14,900 Curitiba Street,2226,Roupas
+ORD-287,Produto C,1,599.59,2024-05-13,922 São Paulo Street,4443,Alimentos
+ORD-288,Produto B,3,760.34,2024-09-20,415 Porto Alegre Street,3086,Eletrônicos
+ORD-289,Produto A,5,182.5,2024-08-23,236 São Paulo Street,2383,Brinquedos
+ORD-290,Produto C,5,594.5,2024-03-23,152 Belo Horizonte Street,3051,Eletrônicos
+ORD-291,Produto E,3,503.25,2024-07-04,422 Porto Alegre Street,4330,Alimentos
+ORD-292,Produto A,4,981.36,2024-03-16,216 Porto Alegre Street,3360,Brinquedos
+ORD-293,Produto A,3,541.57,2024-04-17,153 São Paulo Street,3232,Roupas
+ORD-294,Produto A,1,475.06,2024-04-22,593 Rio de Janeiro Street,4567,Alimentos
+ORD-295,Produto A,5,381.25,2024-05-22,614 Rio de Janeiro Street,2044,Roupas
+ORD-296,Produto B,2,134.69,2024-08-17,294 Rio de Janeiro Street,1023,Eletrônicos
+ORD-297,Produto A,4,204.01,2024-06-25,717 Rio de Janeiro Street,4999,Brinquedos
+ORD-298,Produto A,2,428.66,2024-03-03,180 Porto Alegre Street,4951,Alimentos
+ORD-299,Produto C,1,882.24,2024-01-15,124 Rio de Janeiro Street,4294,Alimentos
+ORD-300,Produto B,3,25.3,2024-05-22,700 Curitiba Street,1597,Brinquedos
+ORD-301,Produto D,4,378.77,2024-07-12,664 Porto Alegre Street,2474,Esportes
+ORD-302,Produto A,3,522.42,2024-09-14,233 Belo Horizonte Street,4558,Eletrônicos
+ORD-303,Produto B,4,998.59,2024-09-24,726 Porto Alegre Street,3812,Brinquedos
+ORD-304,Produto D,5,565.19,2024-03-28,112 Curitiba Street,4725,Esportes
+ORD-305,Produto A,2,124.13,2024-01-26,730 Porto Alegre Street,1947,Eletrônicos
+ORD-306,Produto A,5,273.97,2024-05-02,510 Rio de Janeiro Street,3983,Brinquedos
+ORD-307,Produto A,4,816.3,2024-06-11,229 Curitiba Street,2543,Esportes
+ORD-308,Produto A,5,820.39,2024-04-13,717 Curitiba Street,2106,Alimentos
+ORD-309,Produto D,4,569.62,2024-05-28,990 Curitiba Street,3658,Eletrônicos
+ORD-310,Produto B,4,350.56,2024-01-27,997 São Paulo Street,3072,Alimentos
+ORD-311,Produto A,4,523.46,2024-05-08,547 Curitiba Street,3103,Alimentos
+ORD-312,Produto D,1,483.82,2024-03-01,784 Rio de Janeiro Street,4372,Brinquedos
+ORD-313,Produto B,1,657.89,2024-01-28,276 Belo Horizonte Street,3036,Roupas
+ORD-314,Produto A,4,663.11,2024-07-25,713 Belo Horizonte Street,2192,Esportes
+ORD-315,Produto A,5,112.42,2024-03-19,372 Rio de Janeiro Street,4231,Roupas
+ORD-316,Produto D,2,73.01,2024-03-12,373 Curitiba Street,1667,Roupas
+ORD-317,Produto A,3,92.73,2024-03-20,185 Curitiba Street,3870,Roupas
+ORD-318,Produto A,1,239.35,2024-05-07,297 Curitiba Street,3409,Alimentos
+ORD-319,Produto D,4,655.78,2024-05-10,115 Curitiba Street,1516,Brinquedos
+ORD-320,Produto C,1,901.87,2024-09-29,904 Porto Alegre Street,3417,Roupas
+ORD-321,Produto C,4,941.77,2024-03-23,273 Rio de Janeiro Street,3873,Alimentos
+ORD-322,Produto E,5,437.61,2024-04-14,928 São Paulo Street,1079,Eletrônicos
+ORD-323,Produto A,2,660.88,2024-07-08,936 São Paulo Street,2990,Alimentos
+ORD-324,Produto C,1,953.8,2024-05-19,669 São Paulo Street,1350,Brinquedos
+ORD-325,Produto C,1,595.31,2024-08-12,111 Belo Horizonte Street,1911,Eletrônicos
+ORD-326,Produto D,4,836.93,2024-07-12,550 Rio de Janeiro Street,3512,Esportes
+ORD-327,Produto D,4,15.69,2024-01-29,565 Porto Alegre Street,4270,Esportes
+ORD-328,Produto D,3,510.07,2024-01-30,980 Curitiba Street,3690,Eletrônicos
+ORD-329,Produto A,3,747.72,2024-06-22,687 Rio de Janeiro Street,1326,Esportes
+ORD-330,Produto A,3,626.39,2024-02-07,125 São Paulo Street,4724,Alimentos
+ORD-331,Produto D,3,769.97,2024-07-09,931 Belo Horizonte Street,2574,Alimentos
+ORD-332,Produto D,3,969.81,2024-04-17,114 Belo Horizonte Street,2681,Esportes
+ORD-333,Produto E,5,463.19,2024-03-10,403 São Paulo Street,2342,Brinquedos
+ORD-334,Produto A,2,259.61,2024-06-19,823 Curitiba Street,2858,Eletrônicos
+ORD-335,Produto D,4,237.68,2024-09-13,958 Rio de Janeiro Street,2167,Esportes
+ORD-336,Produto E,1,662.63,2024-08-23,568 Rio de Janeiro Street,3672,Roupas
+ORD-337,Produto D,1,19.87,2024-04-03,657 Porto Alegre Street,3553,Esportes
+ORD-338,Produto E,4,951.47,2024-05-30,972 Curitiba Street,3099,Esportes
+ORD-339,Produto D,2,593.96,2024-04-19,631 Curitiba Street,4091,Esportes
+ORD-340,Produto C,4,594.66,2024-08-16,324 Rio de Janeiro Street,1055,Roupas
+ORD-341,Produto E,3,995.44,2024-05-20,970 Curitiba Street,2538,Esportes
+ORD-342,Produto E,5,359.92,2024-09-27,193 Porto Alegre Street,2909,Esportes
+ORD-343,Produto D,4,534.03,2024-03-07,538 Rio de Janeiro Street,3474,Brinquedos
+ORD-344,Produto D,2,282.82,2024-04-15,952 São Paulo Street,2272,Roupas
+ORD-345,Produto A,5,526.17,2024-05-14,464 São Paulo Street,2087,Esportes
+ORD-346,Produto B,2,463.12,2024-06-20,692 São Paulo Street,4836,Roupas
+ORD-347,Produto C,4,78.39,2024-09-21,408 Curitiba Street,1443,Alimentos
+ORD-348,Produto B,4,397.34,2024-07-15,678 Belo Horizonte Street,3089,Eletrônicos
+ORD-349,Produto E,3,225.0,2024-05-01,774 Rio de Janeiro Street,3420,Alimentos
+ORD-350,Produto E,1,484.3,2024-07-12,294 Belo Horizonte Street,1622,Esportes
+ORD-351,Produto D,5,72.81,2024-05-11,515 Rio de Janeiro Street,1713,Alimentos
+ORD-352,Produto B,2,517.7,2024-08-11,336 Porto Alegre Street,3521,Brinquedos
+ORD-353,Produto A,2,111.17,2024-07-28,850 Belo Horizonte Street,2779,Brinquedos
+ORD-354,Produto C,1,278.87,2024-04-05,177 Belo Horizonte Street,3649,Esportes
+ORD-355,Produto D,4,261.06,2024-02-24,247 Belo Horizonte Street,1047,Eletrônicos
+ORD-356,Produto A,5,17.33,2024-04-05,848 Belo Horizonte Street,1640,Esportes
+ORD-357,Produto A,5,973.72,2024-07-04,130 Belo Horizonte Street,2275,Esportes
+ORD-358,Produto B,1,567.95,2024-02-21,909 Porto Alegre Street,1019,Roupas
+ORD-359,Produto E,4,284.57,2024-06-27,411 São Paulo Street,3339,Brinquedos
+ORD-360,Produto E,4,135.25,2024-09-24,880 São Paulo Street,2991,Eletrônicos
+ORD-361,Produto E,3,644.76,2024-05-15,499 São Paulo Street,4133,Eletrônicos
+ORD-362,Produto A,2,491.59,2024-09-26,897 São Paulo Street,2980,Esportes
+ORD-363,Produto D,5,510.3,2024-07-27,250 Rio de Janeiro Street,3135,Brinquedos
+ORD-364,Produto B,2,87.62,2024-09-23,694 Belo Horizonte Street,4177,Esportes
+ORD-365,Produto D,4,908.38,2024-08-03,353 Curitiba Street,4814,Eletrônicos
+ORD-366,Produto B,4,546.73,2024-07-09,548 Porto Alegre Street,2066,Alimentos
+ORD-367,Produto A,4,618.95,2024-05-21,830 Rio de Janeiro Street,3058,Brinquedos
+ORD-368,Produto E,3,898.18,2024-02-16,887 São Paulo Street,2930,Brinquedos
+ORD-369,Produto A,2,889.08,2024-08-15,550 Curitiba Street,2111,Roupas
+ORD-370,Produto B,2,145.31,2024-08-03,955 São Paulo Street,3107,Roupas
+ORD-371,Produto A,4,546.35,2024-09-20,541 Porto Alegre Street,4521,Alimentos
+ORD-372,Produto D,5,447.49,2024-05-07,405 Porto Alegre Street,2002,Alimentos
+ORD-373,Produto A,2,887.2,2024-07-20,501 São Paulo Street,4087,Brinquedos
+ORD-374,Produto E,3,216.42,2024-06-04,718 Porto Alegre Street,2087,Esportes
+ORD-375,Produto B,3,754.36,2024-08-31,699 Porto Alegre Street,3609,Brinquedos
+ORD-376,Produto B,1,555.53,2024-05-13,237 Rio de Janeiro Street,4579,Roupas
+ORD-377,Produto D,5,70.51,2024-09-18,498 Porto Alegre Street,4629,Roupas
+ORD-378,Produto C,3,22.69,2024-04-24,388 Belo Horizonte Street,1463,Roupas
+ORD-379,Produto E,4,414.07,2024-08-14,727 Belo Horizonte Street,4305,Alimentos
+ORD-380,Produto C,3,267.46,2024-05-22,563 Rio de Janeiro Street,3909,Esportes
+ORD-381,Produto A,2,68.86,2024-01-14,710 Belo Horizonte Street,3597,Eletrônicos
+ORD-382,Produto A,1,615.08,2024-09-24,795 Belo Horizonte Street,1089,Esportes
+ORD-383,Produto E,4,219.82,2024-03-27,947 Rio de Janeiro Street,1681,Eletrônicos
+ORD-384,Produto C,5,716.26,2024-07-31,948 Rio de Janeiro Street,4800,Esportes
+ORD-385,Produto D,1,162.57,2024-02-26,753 Curitiba Street,3995,Brinquedos
+ORD-386,Produto D,5,345.71,2024-08-05,774 Porto Alegre Street,4492,Roupas
+ORD-387,Produto D,1,861.78,2024-01-28,672 Curitiba Street,2765,Esportes
+ORD-388,Produto A,3,54.75,2024-06-06,331 Rio de Janeiro Street,1308,Roupas
+ORD-389,Produto B,5,495.29,2024-03-07,655 São Paulo Street,1631,Esportes
+ORD-390,Produto B,2,120.09,2024-01-12,682 Porto Alegre Street,3790,Brinquedos
+ORD-391,Produto A,2,895.46,2024-03-24,898 Curitiba Street,3566,Alimentos
+ORD-392,Produto A,3,496.15,2024-08-12,493 Rio de Janeiro Street,1065,Alimentos
+ORD-393,Produto D,4,126.64,2024-07-03,577 Curitiba Street,3210,Brinquedos
+ORD-394,Produto C,1,784.42,2024-06-24,688 Curitiba Street,3855,Eletrônicos
+ORD-395,Produto A,2,294.82,2024-09-27,908 São Paulo Street,4803,Eletrônicos
+ORD-396,Produto C,5,604.16,2024-01-30,465 Rio de Janeiro Street,4456,Roupas
+ORD-397,Produto C,5,681.57,2024-06-24,681 Rio de Janeiro Street,4830,Alimentos
+ORD-398,Produto A,4,167.87,2024-09-03,405 Porto Alegre Street,4020,Alimentos
+ORD-399,Produto A,2,457.55,2024-02-14,190 Rio de Janeiro Street,2980,Alimentos
+ORD-400,Produto A,2,412.3,2024-05-11,887 Belo Horizonte Street,3527,Alimentos
+ORD-401,Produto E,1,245.76,2024-02-29,342 Rio de Janeiro Street,3206,Esportes
+ORD-402,Produto C,2,799.03,2024-06-14,532 Porto Alegre Street,3580,Esportes
+ORD-403,Produto A,1,797.36,2024-06-22,992 Belo Horizonte Street,1637,Alimentos
+ORD-404,Produto C,4,991.42,2024-05-22,135 Belo Horizonte Street,3318,Roupas
+ORD-405,Produto D,1,460.26,2024-02-23,444 Porto Alegre Street,4637,Brinquedos
+ORD-406,Produto A,1,263.59,2024-05-15,978 Porto Alegre Street,2473,Alimentos
+ORD-407,Produto A,3,939.27,2024-05-11,461 São Paulo Street,2038,Roupas
+ORD-408,Produto D,5,562.02,2024-08-19,507 São Paulo Street,3152,Eletrônicos
+ORD-409,Produto B,1,786.46,2024-04-19,961 Rio de Janeiro Street,1281,Roupas
+ORD-410,Produto C,2,509.98,2024-02-04,726 Curitiba Street,3397,Eletrônicos
+ORD-411,Produto C,2,832.28,2024-01-18,629 Rio de Janeiro Street,3943,Brinquedos
+ORD-412,Produto B,5,477.4,2024-06-02,927 São Paulo Street,2638,Brinquedos
+ORD-413,Produto D,3,33.14,2024-04-06,894 Rio de Janeiro Street,1828,Esportes
+ORD-414,Produto A,3,120.41,2024-03-11,205 Rio de Janeiro Street,4557,Roupas
+ORD-415,Produto E,2,349.69,2024-03-30,275 Porto Alegre Street,4479,Roupas
+ORD-416,Produto A,4,162.07,2024-09-15,919 Porto Alegre Street,2584,Roupas
+ORD-417,Produto E,2,319.23,2024-08-28,398 Belo Horizonte Street,2008,Brinquedos
+ORD-418,Produto C,3,554.25,2024-09-18,742 Curitiba Street,3279,Alimentos
+ORD-419,Produto D,2,865.19,2024-05-28,401 Belo Horizonte Street,1493,Esportes
+ORD-420,Produto B,4,293.6,2024-03-31,294 São Paulo Street,4464,Eletrônicos
+ORD-421,Produto C,2,798.35,2024-03-25,675 Curitiba Street,3327,Eletrônicos
+ORD-422,Produto C,3,571.52,2024-10-01,949 São Paulo Street,4940,Esportes
+ORD-423,Produto A,4,759.69,2024-03-14,501 Rio de Janeiro Street,2270,Alimentos
+ORD-424,Produto D,5,265.18,2024-01-15,273 Porto Alegre Street,4966,Esportes
+ORD-425,Produto A,5,914.45,2024-04-04,251 São Paulo Street,2884,Alimentos
+ORD-426,Produto E,4,557.38,2024-03-30,385 Curitiba Street,2000,Roupas
+ORD-427,Produto A,1,367.47,2024-03-05,363 Belo Horizonte Street,4063,Alimentos
+ORD-428,Produto C,3,542.72,2024-01-29,247 Porto Alegre Street,1455,Alimentos
+ORD-429,Produto A,5,427.51,2024-02-05,206 São Paulo Street,1867,Esportes
+ORD-430,Produto A,3,445.56,2024-08-23,626 Belo Horizonte Street,4575,Brinquedos
+ORD-431,Produto C,5,223.58,2024-05-21,991 Curitiba Street,2570,Eletrônicos
+ORD-432,Produto B,3,324.06,2024-06-05,645 Belo Horizonte Street,4198,Alimentos
+ORD-433,Produto E,5,695.5,2024-09-08,629 Rio de Janeiro Street,2361,Eletrônicos
+ORD-434,Produto B,5,678.45,2024-09-28,599 Belo Horizonte Street,2457,Eletrônicos
+ORD-435,Produto D,1,631.88,2024-06-06,578 Porto Alegre Street,1780,Roupas
+ORD-436,Produto B,1,369.46,2024-07-10,571 Porto Alegre Street,3873,Alimentos
+ORD-437,Produto E,5,38.42,2024-02-21,743 Porto Alegre Street,3032,Alimentos
+ORD-438,Produto B,5,689.52,2024-07-06,110 Belo Horizonte Street,2566,Alimentos
+ORD-439,Produto A,4,834.0,2024-04-02,172 Rio de Janeiro Street,3730,Roupas
+ORD-440,Produto E,3,158.01,2024-01-10,661 Porto Alegre Street,3747,Alimentos
+ORD-441,Produto B,5,751.13,2024-08-16,532 Rio de Janeiro Street,2561,Alimentos
+ORD-442,Produto C,5,872.59,2024-06-20,360 Curitiba Street,2106,Esportes
+ORD-443,Produto B,1,820.83,2024-01-08,368 Curitiba Street,2611,Esportes
+ORD-444,Produto A,3,283.85,2024-01-15,529 Rio de Janeiro Street,3944,Roupas
+ORD-445,Produto E,2,263.08,2024-07-05,774 Rio de Janeiro Street,3146,Alimentos
+ORD-446,Produto E,4,638.86,2024-08-27,708 Rio de Janeiro Street,2303,Brinquedos
+ORD-447,Produto A,3,492.84,2024-07-29,694 São Paulo Street,2041,Eletrônicos
+ORD-448,Produto D,4,706.57,2024-06-21,222 Curitiba Street,4963,Esportes
+ORD-449,Produto C,1,424.76,2024-06-07,697 Belo Horizonte Street,3676,Alimentos
+ORD-450,Produto E,3,289.22,2024-06-23,776 Porto Alegre Street,1816,Alimentos
+ORD-451,Produto A,3,386.84,2024-04-07,978 Curitiba Street,3892,Esportes
+ORD-452,Produto D,5,413.37,2024-01-14,222 Rio de Janeiro Street,4880,Alimentos
+ORD-453,Produto E,5,561.45,2024-09-13,388 Belo Horizonte Street,4495,Alimentos
+ORD-454,Produto A,1,96.17,2024-08-15,484 Porto Alegre Street,2727,Brinquedos
+ORD-455,Produto E,5,450.14,2024-09-09,726 Porto Alegre Street,3714,Esportes
+ORD-456,Produto A,4,487.79,2024-01-27,545 Rio de Janeiro Street,1233,Alimentos
+ORD-457,Produto E,1,280.77,2024-03-23,207 Belo Horizonte Street,3829,Roupas
+ORD-458,Produto C,2,512.64,2024-05-26,173 Rio de Janeiro Street,2804,Roupas
+ORD-459,Produto B,3,997.96,2024-02-20,244 Porto Alegre Street,2367,Brinquedos
+ORD-460,Produto E,5,826.62,2024-07-31,350 Belo Horizonte Street,1586,Brinquedos
+ORD-461,Produto B,5,758.94,2024-07-11,429 São Paulo Street,1740,Alimentos
+ORD-462,Produto E,5,738.68,2024-04-03,180 Porto Alegre Street,2952,Alimentos
+ORD-463,Produto E,3,737.16,2024-01-01,997 Porto Alegre Street,4289,Eletrônicos
+ORD-464,Produto A,4,165.03,2024-07-30,121 São Paulo Street,1146,Eletrônicos
+ORD-465,Produto B,1,766.32,2024-06-08,804 Rio de Janeiro Street,4206,Alimentos
+ORD-466,Produto C,5,504.67,2024-03-03,825 Rio de Janeiro Street,4654,Alimentos
+ORD-467,Produto A,3,520.45,2024-03-02,237 Curitiba Street,2694,Eletrônicos
+ORD-468,Produto A,4,33.38,2024-02-15,624 Porto Alegre Street,2387,Alimentos
+ORD-469,Produto A,4,755.82,2024-01-21,853 Rio de Janeiro Street,4040,Brinquedos
+ORD-470,Produto E,1,619.77,2024-09-02,876 Rio de Janeiro Street,4448,Esportes
+ORD-471,Produto D,3,23.16,2024-02-07,961 Belo Horizonte Street,1552,Brinquedos
+ORD-472,Produto B,3,37.27,2024-03-23,895 Curitiba Street,3753,Brinquedos
+ORD-473,Produto E,1,18.66,2024-03-28,572 São Paulo Street,4208,Eletrônicos
+ORD-474,Produto A,5,624.26,2024-07-13,779 Rio de Janeiro Street,2207,Esportes
+ORD-475,Produto E,4,845.53,2024-03-19,738 Porto Alegre Street,4109,Alimentos
+ORD-476,Produto B,5,786.75,2024-02-17,249 Porto Alegre Street,4634,Eletrônicos
+ORD-477,Produto E,5,299.44,2024-07-08,386 Belo Horizonte Street,2658,Roupas
+ORD-478,Produto B,3,227.48,2024-05-14,879 Curitiba Street,2464,Alimentos
+ORD-479,Produto C,1,117.28,2024-08-15,966 Rio de Janeiro Street,2163,Alimentos
+ORD-480,Produto D,1,176.01,2024-08-10,981 Belo Horizonte Street,4603,Alimentos
+ORD-481,Produto A,3,337.82,2024-06-11,185 Porto Alegre Street,2862,Esportes
+ORD-482,Produto A,5,164.94,2024-05-21,831 São Paulo Street,2429,Eletrônicos
+ORD-483,Produto D,2,224.46,2024-01-19,162 Curitiba Street,3326,Brinquedos
+ORD-484,Produto A,3,990.96,2024-06-29,244 Rio de Janeiro Street,1538,Alimentos
+ORD-485,Produto E,3,346.18,2024-08-05,605 Rio de Janeiro Street,3940,Eletrônicos
+ORD-486,Produto C,2,956.26,2024-02-21,316 Rio de Janeiro Street,1325,Brinquedos
+ORD-487,Produto C,5,573.38,2024-02-26,583 Belo Horizonte Street,2232,Esportes
+ORD-488,Produto A,1,574.07,2024-05-14,215 Belo Horizonte Street,4886,Esportes
+ORD-489,Produto E,3,302.99,2024-06-07,892 Belo Horizonte Street,2540,Alimentos
+ORD-490,Produto A,4,645.63,2024-02-04,392 São Paulo Street,4522,Alimentos
+ORD-491,Produto D,4,175.36,2024-02-18,884 Rio de Janeiro Street,3704,Esportes
+ORD-492,Produto D,5,332.14,2024-06-01,722 Rio de Janeiro Street,2917,Alimentos
+ORD-493,Produto B,5,958.44,2024-04-07,824 Curitiba Street,2684,Brinquedos
+ORD-494,Produto B,4,701.24,2024-07-27,505 Rio de Janeiro Street,3681,Brinquedos
+ORD-495,Produto E,3,882.22,2024-01-10,217 Rio de Janeiro Street,1400,Roupas
+ORD-496,Produto B,5,898.67,2024-03-12,968 Porto Alegre Street,3144,Eletrônicos
+ORD-497,Produto E,3,751.69,2024-01-22,583 São Paulo Street,3139,Esportes
+ORD-498,Produto E,5,539.64,2024-08-28,542 Belo Horizonte Street,1203,Alimentos
+ORD-499,Produto B,1,740.84,2024-08-31,273 Belo Horizonte Street,1825,Alimentos
+ORD-500,Produto D,2,156.4,2024-02-20,887 Rio de Janeiro Street,4575,Roupas
+ORD-501,Produto E,2,511.73,2024-04-30,776 Rio de Janeiro Street,3644,Esportes
+ORD-502,Produto C,5,647.46,2024-07-31,176 Porto Alegre Street,3086,Esportes
+ORD-503,Produto D,4,535.71,2024-06-11,836 São Paulo Street,4615,Esportes
+ORD-504,Produto E,5,328.89,2024-08-08,437 Belo Horizonte Street,4855,Alimentos
+ORD-505,Produto A,4,728.44,2024-03-30,331 Belo Horizonte Street,3254,Roupas
+ORD-506,Produto A,1,203.09,2024-07-25,602 Belo Horizonte Street,1204,Roupas
+ORD-507,Produto D,5,127.93,2024-06-19,639 São Paulo Street,3935,Eletrônicos
+ORD-508,Produto B,5,770.85,2024-02-12,898 Rio de Janeiro Street,2563,Esportes
+ORD-509,Produto C,1,365.4,2024-07-24,822 Curitiba Street,1811,Esportes
+ORD-510,Produto C,2,158.59,2024-03-24,378 Belo Horizonte Street,1780,Esportes
+ORD-511,Produto A,3,459.42,2024-03-30,547 Curitiba Street,3509,Eletrônicos
+ORD-512,Produto C,1,278.28,2024-03-20,127 São Paulo Street,2009,Alimentos
+ORD-513,Produto A,5,501.56,2024-04-15,914 Belo Horizonte Street,4262,Esportes
+ORD-514,Produto E,4,130.15,2024-07-02,601 São Paulo Street,1255,Esportes
+ORD-515,Produto E,5,570.34,2024-09-05,648 Porto Alegre Street,4287,Roupas
+ORD-516,Produto B,3,694.48,2024-04-06,670 Porto Alegre Street,2942,Eletrônicos
+ORD-517,Produto A,2,862.59,2024-03-31,605 Rio de Janeiro Street,2192,Roupas
+ORD-518,Produto E,5,683.69,2024-03-02,664 Belo Horizonte Street,1753,Eletrônicos
+ORD-519,Produto C,3,516.39,2024-06-03,176 Curitiba Street,3491,Esportes
+ORD-520,Produto B,4,816.23,2024-02-16,533 Porto Alegre Street,3651,Brinquedos
+ORD-521,Produto C,1,835.33,2024-09-22,875 Porto Alegre Street,2818,Esportes
+ORD-522,Produto E,1,555.44,2024-06-14,553 Curitiba Street,1997,Eletrônicos
+ORD-523,Produto B,3,701.54,2024-03-05,249 Belo Horizonte Street,1645,Roupas
+ORD-524,Produto A,5,483.56,2024-01-08,373 Curitiba Street,4082,Brinquedos
+ORD-525,Produto D,4,380.82,2024-07-09,683 Curitiba Street,3333,Alimentos
+ORD-526,Produto B,1,334.27,2024-09-23,341 São Paulo Street,3813,Alimentos
+ORD-527,Produto E,5,31.39,2024-08-17,341 Porto Alegre Street,4086,Alimentos
+ORD-528,Produto A,3,684.82,2024-04-03,718 Porto Alegre Street,2912,Roupas
+ORD-529,Produto A,5,163.46,2024-06-11,579 Porto Alegre Street,4473,Brinquedos
+ORD-530,Produto E,1,27.38,2024-04-04,894 Curitiba Street,3537,Eletrônicos
+ORD-531,Produto A,3,514.78,2024-05-25,728 São Paulo Street,1035,Eletrônicos
+ORD-532,Produto D,3,105.65,2024-07-14,717 Porto Alegre Street,2935,Alimentos
+ORD-533,Produto A,1,189.87,2024-08-12,936 São Paulo Street,1507,Esportes
+ORD-534,Produto D,5,525.13,2024-06-25,879 Curitiba Street,2050,Brinquedos
+ORD-535,Produto B,2,938.48,2024-07-22,538 Porto Alegre Street,4607,Roupas
+ORD-536,Produto A,1,164.6,2024-04-24,828 Porto Alegre Street,2843,Alimentos
+ORD-537,Produto C,5,531.43,2024-03-12,414 São Paulo Street,1681,Brinquedos
+ORD-538,Produto C,2,297.53,2024-08-24,201 Curitiba Street,4706,Alimentos
+ORD-539,Produto A,3,550.12,2024-08-01,884 Porto Alegre Street,4308,Esportes
+ORD-540,Produto C,2,470.61,2024-02-11,980 Rio de Janeiro Street,4353,Roupas
+ORD-541,Produto E,4,826.98,2024-05-11,207 Porto Alegre Street,1410,Brinquedos
+ORD-542,Produto A,3,817.43,2024-09-09,778 São Paulo Street,2325,Esportes
+ORD-543,Produto C,4,75.21,2024-06-24,552 São Paulo Street,3542,Alimentos
+ORD-544,Produto C,4,326.14,2024-06-27,521 Porto Alegre Street,3049,Roupas
+ORD-545,Produto D,2,256.64,2024-01-05,314 Rio de Janeiro Street,1877,Brinquedos
+ORD-546,Produto E,3,268.86,2024-05-11,224 Porto Alegre Street,2577,Brinquedos
+ORD-547,Produto D,5,629.37,2024-05-16,562 Curitiba Street,3512,Esportes
+ORD-548,Produto B,1,952.75,2024-01-04,702 Rio de Janeiro Street,2154,Alimentos
+ORD-549,Produto D,2,565.94,2024-08-30,287 Belo Horizonte Street,4404,Esportes
+ORD-550,Produto B,2,879.02,2024-07-25,232 Porto Alegre Street,4323,Roupas
+ORD-551,Produto B,1,261.61,2024-01-07,136 São Paulo Street,4435,Brinquedos
+ORD-552,Produto B,1,525.11,2024-09-03,445 Porto Alegre Street,1760,Eletrônicos
+ORD-553,Produto D,1,85.8,2024-02-07,891 Porto Alegre Street,3021,Alimentos
+ORD-554,Produto A,4,755.98,2024-06-17,443 São Paulo Street,4425,Roupas
+ORD-555,Produto D,5,161.7,2024-08-15,165 Rio de Janeiro Street,2893,Alimentos
+ORD-556,Produto A,1,829.75,2024-02-07,113 Porto Alegre Street,1423,Roupas
+ORD-557,Produto E,2,517.86,2024-03-03,393 Rio de Janeiro Street,3482,Roupas
+ORD-558,Produto B,3,102.69,2024-04-21,935 Curitiba Street,4134,Eletrônicos
+ORD-559,Produto E,1,723.48,2024-08-24,359 Porto Alegre Street,3475,Eletrônicos
+ORD-560,Produto E,2,473.54,2024-04-04,909 São Paulo Street,2555,Brinquedos
+ORD-561,Produto B,4,898.47,2024-05-01,335 Rio de Janeiro Street,4102,Eletrônicos
+ORD-562,Produto C,5,531.16,2024-07-17,459 Rio de Janeiro Street,4994,Eletrônicos
+ORD-563,Produto B,4,43.48,2024-05-09,260 Belo Horizonte Street,4133,Esportes
+ORD-564,Produto D,1,907.67,2024-06-16,781 Rio de Janeiro Street,1818,Roupas
+ORD-565,Produto E,4,76.95,2024-04-13,608 São Paulo Street,4170,Alimentos
+ORD-566,Produto B,4,996.37,2024-07-03,561 Rio de Janeiro Street,3865,Brinquedos
+ORD-567,Produto E,4,208.7,2024-01-10,604 São Paulo Street,2991,Brinquedos
+ORD-568,Produto B,2,769.88,2024-03-23,463 Rio de Janeiro Street,3934,Roupas
+ORD-569,Produto E,5,531.1,2024-01-28,387 Porto Alegre Street,3703,Esportes
+ORD-570,Produto C,2,495.54,2024-01-04,130 Curitiba Street,2435,Brinquedos
+ORD-571,Produto B,3,680.9,2024-09-05,253 São Paulo Street,2375,Eletrônicos
+ORD-572,Produto A,4,802.92,2024-02-04,903 Belo Horizonte Street,3012,Esportes
+ORD-573,Produto E,1,416.22,2024-08-04,534 Curitiba Street,2352,Brinquedos
+ORD-574,Produto D,2,672.12,2024-05-26,412 Porto Alegre Street,2414,Roupas
+ORD-575,Produto E,3,227.32,2024-09-15,436 Curitiba Street,2097,Brinquedos
+ORD-576,Produto C,5,729.66,2024-02-16,139 Belo Horizonte Street,2793,Alimentos
+ORD-577,Produto A,5,830.49,2024-09-21,896 São Paulo Street,2248,Alimentos
+ORD-578,Produto C,2,291.09,2024-07-29,267 São Paulo Street,2737,Eletrônicos
+ORD-579,Produto B,3,673.43,2024-06-10,805 Rio de Janeiro Street,1787,Esportes
+ORD-580,Produto C,2,240.47,2024-05-12,367 Rio de Janeiro Street,2142,Alimentos
+ORD-581,Produto A,5,993.22,2024-08-21,193 São Paulo Street,3378,Esportes
+ORD-582,Produto D,5,563.35,2024-02-14,567 Rio de Janeiro Street,4459,Esportes
+ORD-583,Produto B,5,913.0,2024-02-03,775 Porto Alegre Street,1632,Brinquedos
+ORD-584,Produto E,3,877.36,2024-06-12,629 Belo Horizonte Street,4262,Alimentos
+ORD-585,Produto C,5,989.57,2024-05-29,989 Belo Horizonte Street,3032,Eletrônicos
+ORD-586,Produto B,3,200.91,2024-07-26,713 Curitiba Street,3833,Brinquedos
+ORD-587,Produto E,1,162.5,2024-04-22,266 Rio de Janeiro Street,4359,Roupas
+ORD-588,Produto B,5,823.82,2024-06-24,280 Porto Alegre Street,2433,Roupas
+ORD-589,Produto B,5,672.02,2024-06-17,444 Porto Alegre Street,1261,Brinquedos
+ORD-590,Produto E,4,913.69,2024-06-11,259 Belo Horizonte Street,1030,Brinquedos
+ORD-591,Produto E,4,570.18,2024-09-07,992 Porto Alegre Street,3636,Eletrônicos
+ORD-592,Produto D,3,467.41,2024-03-28,571 Porto Alegre Street,3307,Brinquedos
+ORD-593,Produto A,4,256.4,2024-01-04,856 Belo Horizonte Street,3251,Eletrônicos
+ORD-594,Produto B,4,81.87,2024-05-17,648 Rio de Janeiro Street,4204,Roupas
+ORD-595,Produto D,4,679.52,2024-09-19,137 Porto Alegre Street,1829,Eletrônicos
+ORD-596,Produto C,1,203.69,2024-09-22,174 São Paulo Street,3176,Brinquedos
+ORD-597,Produto E,4,760.56,2024-09-28,713 São Paulo Street,2571,Brinquedos
+ORD-598,Produto D,5,259.22,2024-05-10,125 São Paulo Street,3545,Brinquedos
+ORD-599,Produto A,3,933.2,2024-04-06,552 Belo Horizonte Street,4404,Eletrônicos
+ORD-600,Produto D,2,721.92,2024-08-02,832 Curitiba Street,2367,Esportes
+ORD-601,Produto A,5,598.74,2024-01-14,551 São Paulo Street,4725,Brinquedos
+ORD-602,Produto D,5,560.1,2024-07-22,625 São Paulo Street,2301,Eletrônicos
+ORD-603,Produto D,2,544.22,2024-04-17,479 Porto Alegre Street,1223,Eletrônicos
+ORD-604,Produto B,1,840.98,2024-09-25,259 São Paulo Street,3357,Alimentos
+ORD-605,Produto C,5,658.19,2024-03-21,715 Belo Horizonte Street,3793,Roupas
+ORD-606,Produto E,5,615.36,2024-03-07,826 Porto Alegre Street,2067,Roupas
+ORD-607,Produto A,4,239.88,2024-09-06,863 Rio de Janeiro Street,3445,Esportes
+ORD-608,Produto C,5,18.42,2024-04-27,693 Rio de Janeiro Street,1669,Alimentos
+ORD-609,Produto C,3,532.45,2024-07-14,873 São Paulo Street,2428,Brinquedos
+ORD-610,Produto D,3,622.62,2024-05-08,232 Rio de Janeiro Street,4451,Roupas
+ORD-611,Produto A,5,970.46,2024-09-26,928 Porto Alegre Street,2105,Alimentos
+ORD-612,Produto B,1,692.18,2024-09-08,738 Rio de Janeiro Street,2065,Esportes
+ORD-613,Produto C,3,458.46,2024-04-03,963 Belo Horizonte Street,2986,Alimentos
+ORD-614,Produto B,1,918.45,2024-04-03,106 Curitiba Street,2055,Alimentos
+ORD-615,Produto B,3,79.37,2024-04-01,679 Rio de Janeiro Street,4083,Eletrônicos
+ORD-616,Produto C,5,866.92,2024-06-28,822 Rio de Janeiro Street,2401,Brinquedos
+ORD-617,Produto C,3,530.14,2024-03-11,360 Rio de Janeiro Street,1740,Roupas
+ORD-618,Produto A,1,669.77,2024-09-19,648 São Paulo Street,1414,Roupas
+ORD-619,Produto A,5,769.06,2024-05-22,964 Belo Horizonte Street,1321,Brinquedos
+ORD-620,Produto C,1,897.49,2024-08-15,854 Rio de Janeiro Street,3433,Alimentos
+ORD-621,Produto D,4,805.66,2024-06-16,903 Curitiba Street,3489,Alimentos
+ORD-622,Produto C,5,832.5,2024-01-31,383 Rio de Janeiro Street,3080,Roupas
+ORD-623,Produto C,1,807.61,2024-02-20,918 Rio de Janeiro Street,4400,Eletrônicos
+ORD-624,Produto D,5,921.38,2024-09-17,616 Porto Alegre Street,2414,Esportes
+ORD-625,Produto B,3,773.16,2024-06-05,498 São Paulo Street,3799,Brinquedos
+ORD-626,Produto E,4,449.13,2024-09-28,596 São Paulo Street,3150,Esportes
+ORD-627,Produto B,2,30.28,2024-02-06,816 Porto Alegre Street,4798,Brinquedos
+ORD-628,Produto D,3,690.78,2024-06-14,967 Porto Alegre Street,3816,Esportes
+ORD-629,Produto B,4,288.59,2024-04-09,637 Porto Alegre Street,3636,Eletrônicos
+ORD-630,Produto A,4,741.41,2024-04-11,759 São Paulo Street,2560,Alimentos
+ORD-631,Produto E,1,711.03,2024-07-08,850 Rio de Janeiro Street,3664,Eletrônicos
+ORD-632,Produto A,1,302.61,2024-07-21,437 Porto Alegre Street,1665,Roupas
+ORD-633,Produto B,3,76.69,2024-04-12,493 Belo Horizonte Street,3116,Brinquedos
+ORD-634,Produto A,5,497.47,2024-09-03,549 Curitiba Street,1693,Brinquedos
+ORD-635,Produto A,3,984.76,2024-07-05,108 Belo Horizonte Street,1147,Alimentos
+ORD-636,Produto B,3,895.42,2024-01-06,351 Curitiba Street,2298,Eletrônicos
+ORD-637,Produto D,1,989.27,2024-02-01,601 Curitiba Street,2307,Alimentos
+ORD-638,Produto C,4,258.25,2024-04-20,406 Curitiba Street,1894,Brinquedos
+ORD-639,Produto A,3,689.43,2024-01-23,976 Belo Horizonte Street,2614,Alimentos
+ORD-640,Produto C,2,168.36,2024-04-04,971 São Paulo Street,4321,Brinquedos
+ORD-641,Produto E,5,761.2,2024-05-28,873 Porto Alegre Street,3423,Brinquedos
+ORD-642,Produto A,4,795.87,2024-02-21,313 Belo Horizonte Street,3939,Eletrônicos
+ORD-643,Produto D,4,429.47,2024-06-26,260 Curitiba Street,2047,Alimentos
+ORD-644,Produto A,5,546.18,2024-03-26,250 Belo Horizonte Street,3993,Eletrônicos
+ORD-645,Produto E,1,821.64,2024-09-01,560 Curitiba Street,2129,Alimentos
+ORD-646,Produto A,3,241.48,2024-03-07,589 Belo Horizonte Street,2290,Eletrônicos
+ORD-647,Produto E,2,734.47,2024-08-02,742 Rio de Janeiro Street,1209,Brinquedos
+ORD-648,Produto B,1,574.44,2024-09-20,885 São Paulo Street,2314,Brinquedos
+ORD-649,Produto A,3,250.3,2024-05-16,259 Porto Alegre Street,2023,Roupas
+ORD-650,Produto B,2,286.49,2024-07-04,897 São Paulo Street,3368,Esportes
+ORD-651,Produto C,2,281.43,2024-01-22,138 São Paulo Street,2079,Esportes
+ORD-652,Produto D,3,586.99,2024-07-13,781 Curitiba Street,2089,Esportes
+ORD-653,Produto D,3,835.13,2024-02-26,521 Curitiba Street,2138,Alimentos
+ORD-654,Produto E,1,751.34,2024-09-27,298 Rio de Janeiro Street,3112,Brinquedos
+ORD-655,Produto C,2,228.78,2024-07-15,578 Porto Alegre Street,3087,Roupas
+ORD-656,Produto D,5,679.22,2024-06-19,524 Belo Horizonte Street,4609,Roupas
+ORD-657,Produto B,5,846.5,2024-05-28,608 Porto Alegre Street,3788,Esportes
+ORD-658,Produto A,1,245.07,2024-02-04,425 Porto Alegre Street,3611,Esportes
+ORD-659,Produto E,1,653.56,2024-08-06,838 Porto Alegre Street,1375,Roupas
+ORD-660,Produto B,5,139.39,2024-02-25,781 São Paulo Street,4685,Brinquedos
+ORD-661,Produto D,5,189.63,2024-09-18,487 Rio de Janeiro Street,1518,Roupas
+ORD-662,Produto C,3,394.77,2024-05-18,172 Rio de Janeiro Street,2671,Eletrônicos
+ORD-663,Produto D,2,760.39,2024-08-03,313 Rio de Janeiro Street,4042,Brinquedos
+ORD-664,Produto D,3,890.08,2024-02-01,267 Belo Horizonte Street,2474,Eletrônicos
+ORD-665,Produto C,5,763.37,2024-04-06,168 Belo Horizonte Street,3370,Roupas
+ORD-666,Produto D,2,150.24,2024-06-21,508 Rio de Janeiro Street,2738,Brinquedos
+ORD-667,Produto D,2,681.78,2024-07-27,918 São Paulo Street,2016,Alimentos
+ORD-668,Produto C,2,233.69,2024-01-21,365 São Paulo Street,4716,Esportes
+ORD-669,Produto D,3,505.92,2024-08-26,152 São Paulo Street,4584,Roupas
+ORD-670,Produto A,2,11.09,2024-07-02,468 Rio de Janeiro Street,3198,Esportes
+ORD-671,Produto C,3,873.81,2024-06-17,997 Belo Horizonte Street,1909,Brinquedos
+ORD-672,Produto E,2,37.8,2024-01-23,752 São Paulo Street,4109,Roupas
+ORD-673,Produto D,1,497.57,2024-08-23,430 Rio de Janeiro Street,1288,Brinquedos
+ORD-674,Produto C,2,731.56,2024-04-25,182 Porto Alegre Street,4780,Eletrônicos
+ORD-675,Produto D,2,206.74,2024-07-12,759 Rio de Janeiro Street,1351,Roupas
+ORD-676,Produto E,1,848.42,2024-09-11,143 Rio de Janeiro Street,1989,Alimentos
+ORD-677,Produto B,3,553.0,2024-08-23,489 São Paulo Street,4129,Esportes
+ORD-678,Produto C,4,342.56,2024-04-28,220 Belo Horizonte Street,4621,Roupas
+ORD-679,Produto E,1,112.46,2024-01-05,422 Porto Alegre Street,2849,Eletrônicos
+ORD-680,Produto E,3,760.25,2024-05-16,717 São Paulo Street,4534,Roupas
+ORD-681,Produto B,1,443.03,2024-04-03,912 Porto Alegre Street,4124,Roupas
+ORD-682,Produto A,4,165.71,2024-08-06,818 São Paulo Street,2492,Brinquedos
+ORD-683,Produto E,3,76.85,2024-09-27,244 Porto Alegre Street,2154,Alimentos
+ORD-684,Produto A,4,301.19,2024-07-15,263 Curitiba Street,1929,Esportes
+ORD-685,Produto E,1,730.78,2024-03-21,562 Belo Horizonte Street,4258,Brinquedos
+ORD-686,Produto A,5,826.74,2024-03-23,960 Porto Alegre Street,3417,Roupas
+ORD-687,Produto A,5,834.95,2024-03-18,805 Porto Alegre Street,3506,Esportes
+ORD-688,Produto C,3,67.43,2024-04-27,948 São Paulo Street,4877,Brinquedos
+ORD-689,Produto B,1,462.05,2024-06-09,829 São Paulo Street,3427,Esportes
+ORD-690,Produto C,5,15.08,2024-05-23,654 Rio de Janeiro Street,4415,Brinquedos
+ORD-691,Produto B,5,427.46,2024-08-27,589 Curitiba Street,4103,Esportes
+ORD-692,Produto C,5,387.17,2024-09-12,443 Porto Alegre Street,4993,Eletrônicos
+ORD-693,Produto B,2,295.52,2024-08-31,407 Rio de Janeiro Street,2964,Brinquedos
+ORD-694,Produto C,5,69.61,2024-04-02,890 Porto Alegre Street,1009,Alimentos
+ORD-695,Produto E,4,113.33,2024-08-19,753 Curitiba Street,1404,Eletrônicos
+ORD-696,Produto E,3,53.67,2024-05-17,732 Porto Alegre Street,3259,Eletrônicos
+ORD-697,Produto D,1,814.2,2024-05-20,166 São Paulo Street,1293,Esportes
+ORD-698,Produto A,1,544.22,2024-09-28,409 Porto Alegre Street,2894,Roupas
+ORD-699,Produto B,1,919.55,2024-04-03,955 Curitiba Street,4780,Esportes
+ORD-700,Produto A,2,223.09,2024-01-22,136 Porto Alegre Street,3849,Roupas
+ORD-701,Produto B,1,961.42,2024-02-17,604 Porto Alegre Street,1945,Alimentos
+ORD-702,Produto C,3,770.14,2024-02-18,350 Porto Alegre Street,1478,Esportes
+ORD-703,Produto E,4,403.74,2024-03-12,176 Belo Horizonte Street,4612,Brinquedos
+ORD-704,Produto E,1,385.8,2024-01-27,199 Belo Horizonte Street,1095,Esportes
+ORD-705,Produto B,5,234.39,2024-08-11,455 Rio de Janeiro Street,3680,Brinquedos
+ORD-706,Produto B,2,914.06,2024-08-17,177 Rio de Janeiro Street,2723,Roupas
+ORD-707,Produto C,3,913.05,2024-05-18,649 Curitiba Street,2520,Esportes
+ORD-708,Produto C,1,754.05,2024-06-18,593 Curitiba Street,1029,Esportes
+ORD-709,Produto A,5,674.17,2024-01-08,917 Porto Alegre Street,3998,Alimentos
+ORD-710,Produto D,3,978.15,2024-06-23,827 São Paulo Street,1087,Eletrônicos
+ORD-711,Produto B,3,95.95,2024-09-26,981 Rio de Janeiro Street,4410,Alimentos
+ORD-712,Produto A,2,182.14,2024-05-31,954 Belo Horizonte Street,3166,Eletrônicos
+ORD-713,Produto D,1,562.06,2024-05-06,527 Porto Alegre Street,2330,Brinquedos
+ORD-714,Produto B,4,177.8,2024-02-16,289 São Paulo Street,4972,Brinquedos
+ORD-715,Produto A,3,322.0,2024-05-20,813 Belo Horizonte Street,4360,Roupas
+ORD-716,Produto B,3,410.42,2024-08-31,498 Belo Horizonte Street,3794,Brinquedos
+ORD-717,Produto E,4,988.94,2024-09-20,165 Belo Horizonte Street,2069,Esportes
+ORD-718,Produto A,3,834.41,2024-02-05,393 Belo Horizonte Street,3600,Esportes
+ORD-719,Produto B,3,896.07,2024-01-15,470 Porto Alegre Street,2300,Esportes
+ORD-720,Produto D,1,857.2,2024-02-14,384 Curitiba Street,2790,Brinquedos
+ORD-721,Produto B,2,451.54,2024-01-23,140 Belo Horizonte Street,3121,Roupas
+ORD-722,Produto C,4,259.48,2024-06-02,221 São Paulo Street,4060,Alimentos
+ORD-723,Produto B,5,896.84,2024-01-07,320 São Paulo Street,3449,Brinquedos
+ORD-724,Produto C,4,960.93,2024-02-10,971 Rio de Janeiro Street,1642,Eletrônicos
+ORD-725,Produto E,1,510.27,2024-07-12,967 Porto Alegre Street,1069,Esportes
+ORD-726,Produto C,1,342.9,2024-09-04,151 São Paulo Street,1669,Eletrônicos
+ORD-727,Produto C,5,445.36,2024-09-07,776 Belo Horizonte Street,2585,Roupas
+ORD-728,Produto A,2,619.2,2024-03-13,468 Porto Alegre Street,2237,Alimentos
+ORD-729,Produto B,3,21.16,2024-07-28,243 Curitiba Street,2940,Esportes
+ORD-730,Produto B,1,56.29,2024-06-03,236 Belo Horizonte Street,4913,Alimentos
+ORD-731,Produto C,4,223.68,2024-08-26,829 Curitiba Street,4308,Alimentos
+ORD-732,Produto D,1,798.64,2024-08-16,905 Belo Horizonte Street,3576,Alimentos
+ORD-733,Produto D,3,828.26,2024-08-22,397 São Paulo Street,1397,Alimentos
+ORD-734,Produto E,2,272.3,2024-08-29,355 Curitiba Street,4805,Brinquedos
+ORD-735,Produto D,4,534.11,2024-03-03,305 Belo Horizonte Street,3765,Alimentos
+ORD-736,Produto A,3,16.36,2024-05-11,797 São Paulo Street,4012,Eletrônicos
+ORD-737,Produto A,2,374.97,2024-05-03,316 Porto Alegre Street,4742,Eletrônicos
+ORD-738,Produto D,1,38.5,2024-06-12,871 Porto Alegre Street,3011,Alimentos
+ORD-739,Produto B,2,747.78,2024-07-26,344 São Paulo Street,4758,Eletrônicos
+ORD-740,Produto B,5,544.75,2024-07-24,442 Curitiba Street,4426,Roupas
+ORD-741,Produto C,1,672.56,2024-01-15,500 Rio de Janeiro Street,1690,Brinquedos
+ORD-742,Produto E,2,361.93,2024-01-03,406 São Paulo Street,1316,Eletrônicos
+ORD-743,Produto C,1,887.86,2024-09-14,914 São Paulo Street,4212,Alimentos
+ORD-744,Produto B,5,980.44,2024-03-28,650 Porto Alegre Street,2970,Roupas
+ORD-745,Produto E,4,64.62,2024-03-23,203 Rio de Janeiro Street,2477,Brinquedos
+ORD-746,Produto E,1,321.49,2024-03-19,374 Rio de Janeiro Street,1666,Roupas
+ORD-747,Produto B,2,205.73,2024-04-23,172 São Paulo Street,1558,Esportes
+ORD-748,Produto D,3,341.49,2024-08-24,621 Porto Alegre Street,2816,Brinquedos
+ORD-749,Produto B,2,222.37,2024-04-06,689 Belo Horizonte Street,1282,Brinquedos
+ORD-750,Produto E,5,307.47,2024-08-24,231 São Paulo Street,1474,Eletrônicos
+ORD-751,Produto E,5,428.1,2024-02-01,768 Porto Alegre Street,2235,Brinquedos
+ORD-752,Produto A,1,879.76,2024-09-19,205 Rio de Janeiro Street,2555,Brinquedos
+ORD-753,Produto B,5,385.35,2024-01-08,640 Porto Alegre Street,2797,Roupas
+ORD-754,Produto C,2,982.96,2024-04-20,174 Rio de Janeiro Street,2012,Esportes
+ORD-755,Produto B,2,718.39,2024-04-06,525 Belo Horizonte Street,2664,Eletrônicos
+ORD-756,Produto A,4,654.56,2024-04-24,523 Porto Alegre Street,3425,Eletrônicos
+ORD-757,Produto E,4,621.72,2024-09-26,953 Porto Alegre Street,2114,Brinquedos
+ORD-758,Produto B,4,901.23,2024-09-13,291 Belo Horizonte Street,2223,Roupas
+ORD-759,Produto A,3,185.0,2024-04-12,509 Curitiba Street,4220,Brinquedos
+ORD-760,Produto D,3,237.39,2024-01-11,583 Rio de Janeiro Street,4064,Alimentos
+ORD-761,Produto A,2,441.71,2024-08-24,181 Curitiba Street,2971,Eletrônicos
+ORD-762,Produto A,2,618.03,2024-07-20,254 Curitiba Street,1440,Brinquedos
+ORD-763,Produto C,1,925.64,2024-07-04,297 Belo Horizonte Street,2478,Eletrônicos
+ORD-764,Produto E,4,628.32,2024-04-21,500 Rio de Janeiro Street,3309,Roupas
+ORD-765,Produto C,2,384.28,2024-04-22,149 Curitiba Street,1516,Esportes
+ORD-766,Produto A,1,926.23,2024-01-21,780 Rio de Janeiro Street,4509,Eletrônicos
+ORD-767,Produto E,2,383.42,2024-03-24,289 Curitiba Street,4394,Roupas
+ORD-768,Produto A,4,190.48,2024-05-26,516 Porto Alegre Street,3653,Eletrônicos
+ORD-769,Produto C,3,755.03,2024-05-08,243 Belo Horizonte Street,3159,Brinquedos
+ORD-770,Produto C,3,704.15,2024-04-19,802 São Paulo Street,4840,Esportes
+ORD-771,Produto A,1,72.94,2024-03-24,632 Curitiba Street,1980,Roupas
+ORD-772,Produto B,2,441.88,2024-05-07,560 Belo Horizonte Street,4039,Alimentos
+ORD-773,Produto A,1,453.11,2024-02-05,428 Porto Alegre Street,4026,Brinquedos
+ORD-774,Produto C,4,602.61,2024-02-29,560 Porto Alegre Street,1921,Eletrônicos
+ORD-775,Produto B,5,788.05,2024-06-09,255 Porto Alegre Street,2882,Alimentos
+ORD-776,Produto B,1,595.14,2024-09-09,211 Rio de Janeiro Street,4714,Alimentos
+ORD-777,Produto D,2,89.89,2024-02-18,988 São Paulo Street,2611,Brinquedos
+ORD-778,Produto E,4,206.75,2024-09-30,737 São Paulo Street,2497,Brinquedos
+ORD-779,Produto D,2,689.85,2024-07-22,439 Porto Alegre Street,1671,Eletrônicos
+ORD-780,Produto D,5,551.0,2024-05-16,544 Porto Alegre Street,2192,Brinquedos
+ORD-781,Produto E,5,371.54,2024-04-22,535 Belo Horizonte Street,1526,Esportes
+ORD-782,Produto C,3,704.58,2024-08-13,886 Porto Alegre Street,1944,Brinquedos
+ORD-783,Produto D,3,238.53,2024-02-12,739 São Paulo Street,3922,Alimentos
+ORD-784,Produto C,3,434.85,2024-02-24,740 Porto Alegre Street,4664,Alimentos
+ORD-785,Produto E,4,839.93,2024-03-29,801 Belo Horizonte Street,4987,Brinquedos
+ORD-786,Produto D,5,170.65,2024-09-01,127 Belo Horizonte Street,1534,Eletrônicos
+ORD-787,Produto A,3,507.98,2024-02-17,398 Rio de Janeiro Street,3266,Alimentos
+ORD-788,Produto B,3,890.27,2024-09-04,824 Belo Horizonte Street,2953,Alimentos
+ORD-789,Produto B,4,763.81,2024-01-21,237 Rio de Janeiro Street,2646,Eletrônicos
+ORD-790,Produto A,2,430.06,2024-02-09,343 Belo Horizonte Street,3520,Alimentos
+ORD-791,Produto E,3,510.56,2024-04-22,934 Rio de Janeiro Street,3707,Brinquedos
+ORD-792,Produto E,2,532.42,2024-05-01,844 Porto Alegre Street,1217,Esportes
+ORD-793,Produto D,5,846.45,2024-07-09,349 Rio de Janeiro Street,2963,Brinquedos
+ORD-794,Produto D,5,730.5,2024-09-30,848 Belo Horizonte Street,1913,Alimentos
+ORD-795,Produto E,2,518.24,2024-09-10,994 Porto Alegre Street,3975,Eletrônicos
+ORD-796,Produto D,1,430.38,2024-02-25,449 Rio de Janeiro Street,4173,Esportes
+ORD-797,Produto D,5,857.7,2024-04-09,827 São Paulo Street,4763,Eletrônicos
+ORD-798,Produto C,2,145.92,2024-01-24,535 Rio de Janeiro Street,1748,Brinquedos
+ORD-799,Produto D,3,12.08,2024-09-12,670 Porto Alegre Street,2682,Brinquedos
+ORD-800,Produto A,3,739.35,2024-02-23,985 Rio de Janeiro Street,2976,Alimentos
+ORD-801,Produto C,5,958.11,2024-04-25,926 Curitiba Street,3268,Brinquedos
+ORD-802,Produto B,3,256.7,2024-06-15,368 São Paulo Street,3455,Alimentos
+ORD-803,Produto C,2,639.36,2024-04-26,844 Belo Horizonte Street,3185,Eletrônicos
+ORD-804,Produto D,4,400.85,2024-05-21,785 Rio de Janeiro Street,4684,Brinquedos
+ORD-805,Produto A,2,37.92,2024-01-17,697 São Paulo Street,4163,Esportes
+ORD-806,Produto E,3,87.62,2024-05-24,224 Curitiba Street,4084,Roupas
+ORD-807,Produto D,1,221.91,2024-06-01,986 Belo Horizonte Street,4660,Roupas
+ORD-808,Produto B,5,418.7,2024-09-26,955 Porto Alegre Street,2182,Eletrônicos
+ORD-809,Produto A,5,737.77,2024-02-01,929 Curitiba Street,3210,Roupas
+ORD-810,Produto E,1,571.51,2024-09-09,895 Curitiba Street,3579,Brinquedos
+ORD-811,Produto B,2,65.97,2024-07-14,890 Curitiba Street,1613,Alimentos
+ORD-812,Produto B,3,772.15,2024-06-25,271 São Paulo Street,2307,Alimentos
+ORD-813,Produto C,2,409.99,2024-05-07,577 Curitiba Street,4010,Eletrônicos
+ORD-814,Produto D,2,677.05,2024-02-20,474 Porto Alegre Street,3575,Brinquedos
+ORD-815,Produto E,5,711.44,2024-09-17,217 Belo Horizonte Street,3105,Esportes
+ORD-816,Produto C,2,120.6,2024-07-15,666 Belo Horizonte Street,3888,Esportes
+ORD-817,Produto B,5,441.05,2024-04-04,173 Rio de Janeiro Street,1872,Brinquedos
+ORD-818,Produto A,2,184.1,2024-05-18,323 Belo Horizonte Street,3651,Brinquedos
+ORD-819,Produto C,4,790.85,2024-09-16,961 São Paulo Street,3119,Eletrônicos
+ORD-820,Produto B,1,894.84,2024-02-06,753 Curitiba Street,4731,Eletrônicos
+ORD-821,Produto E,3,229.7,2024-05-08,694 Porto Alegre Street,2115,Eletrônicos
+ORD-822,Produto C,3,255.52,2024-04-04,274 Rio de Janeiro Street,3605,Alimentos
+ORD-823,Produto C,2,967.48,2024-02-21,556 Belo Horizonte Street,3400,Roupas
+ORD-824,Produto E,2,636.0,2024-09-26,297 Curitiba Street,2479,Roupas
+ORD-825,Produto A,5,691.77,2024-09-07,251 Rio de Janeiro Street,2403,Alimentos
+ORD-826,Produto A,1,897.23,2024-08-25,548 Rio de Janeiro Street,3361,Alimentos
+ORD-827,Produto C,4,639.24,2024-09-15,932 Porto Alegre Street,4721,Brinquedos
+ORD-828,Produto B,5,310.48,2024-06-11,792 São Paulo Street,1188,Eletrônicos
+ORD-829,Produto C,3,965.76,2024-01-16,162 Belo Horizonte Street,2129,Alimentos
+ORD-830,Produto B,2,836.16,2024-01-23,632 Belo Horizonte Street,2983,Esportes
+ORD-831,Produto A,2,95.9,2024-09-25,881 Rio de Janeiro Street,2770,Esportes
+ORD-832,Produto A,3,759.78,2024-05-15,322 Porto Alegre Street,3828,Eletrônicos
+ORD-833,Produto D,5,321.38,2024-02-19,668 Rio de Janeiro Street,4603,Brinquedos
+ORD-834,Produto E,3,456.28,2024-04-15,223 Rio de Janeiro Street,2589,Alimentos
+ORD-835,Produto B,4,316.32,2024-02-08,853 São Paulo Street,1743,Alimentos
+ORD-836,Produto A,3,603.32,2024-02-25,741 Porto Alegre Street,3693,Roupas
+ORD-837,Produto A,1,639.8,2024-08-21,478 Belo Horizonte Street,4550,Eletrônicos
+ORD-838,Produto E,2,963.03,2024-01-25,401 Belo Horizonte Street,4980,Esportes
+ORD-839,Produto C,4,536.39,2024-06-29,158 Belo Horizonte Street,1723,Roupas
+ORD-840,Produto E,1,361.85,2024-02-24,283 Porto Alegre Street,3331,Eletrônicos
+ORD-841,Produto B,3,257.89,2024-06-02,450 Porto Alegre Street,2821,Roupas
+ORD-842,Produto B,4,521.3,2024-05-16,392 Curitiba Street,4986,Eletrônicos
+ORD-843,Produto B,5,711.06,2024-03-15,534 Porto Alegre Street,4531,Eletrônicos
+ORD-844,Produto E,1,58.53,2024-08-02,299 Rio de Janeiro Street,4342,Esportes
+ORD-845,Produto A,4,962.43,2024-03-06,507 Porto Alegre Street,3355,Alimentos
+ORD-846,Produto E,2,618.5,2024-02-09,704 Rio de Janeiro Street,1462,Brinquedos
+ORD-847,Produto B,2,920.02,2024-05-29,412 Belo Horizonte Street,3990,Roupas
+ORD-848,Produto A,5,155.13,2024-02-02,281 Porto Alegre Street,1282,Brinquedos
+ORD-849,Produto B,3,648.43,2024-02-20,296 Curitiba Street,1464,Eletrônicos
+ORD-850,Produto C,4,561.57,2024-03-02,306 Rio de Janeiro Street,2515,Brinquedos
+ORD-851,Produto D,1,157.16,2024-01-17,499 São Paulo Street,2468,Alimentos
+ORD-852,Produto D,5,489.17,2024-05-21,115 Rio de Janeiro Street,4753,Eletrônicos
+ORD-853,Produto C,2,674.82,2024-03-09,325 São Paulo Street,2198,Esportes
+ORD-854,Produto B,1,554.37,2024-06-02,850 Belo Horizonte Street,3479,Eletrônicos
+ORD-855,Produto E,1,487.39,2024-02-16,224 São Paulo Street,2948,Brinquedos
+ORD-856,Produto B,2,931.43,2024-05-14,369 Curitiba Street,2905,Brinquedos
+ORD-857,Produto A,5,84.05,2024-03-07,394 São Paulo Street,1961,Alimentos
+ORD-858,Produto C,2,942.97,2024-02-22,915 Belo Horizonte Street,1948,Brinquedos
+ORD-859,Produto B,1,623.39,2024-01-24,255 São Paulo Street,1560,Eletrônicos
+ORD-860,Produto B,4,302.01,2024-02-05,995 Belo Horizonte Street,1836,Brinquedos
+ORD-861,Produto D,1,208.12,2024-03-11,221 Curitiba Street,4967,Roupas
+ORD-862,Produto B,2,555.11,2024-09-19,633 Curitiba Street,2950,Brinquedos
+ORD-863,Produto B,1,459.35,2024-01-25,967 São Paulo Street,1526,Esportes
+ORD-864,Produto D,2,90.97,2024-04-11,686 Belo Horizonte Street,1098,Brinquedos
+ORD-865,Produto A,2,718.5,2024-03-09,696 São Paulo Street,4206,Brinquedos
+ORD-866,Produto E,2,374.76,2024-09-20,577 Porto Alegre Street,4566,Eletrônicos
+ORD-867,Produto A,3,131.44,2024-06-26,226 Belo Horizonte Street,2374,Brinquedos
+ORD-868,Produto D,2,84.63,2024-07-29,518 Porto Alegre Street,3233,Eletrônicos
+ORD-869,Produto A,3,304.12,2024-04-30,339 Rio de Janeiro Street,3948,Roupas
+ORD-870,Produto A,1,959.56,2024-05-25,689 Belo Horizonte Street,4346,Eletrônicos
+ORD-871,Produto B,1,21.41,2024-04-26,702 Curitiba Street,1242,Brinquedos
+ORD-872,Produto A,1,908.64,2024-01-01,201 Curitiba Street,4394,Alimentos
+ORD-873,Produto A,4,446.63,2024-09-23,958 Porto Alegre Street,2353,Esportes
+ORD-874,Produto E,4,892.67,2024-09-24,832 São Paulo Street,4246,Esportes
+ORD-875,Produto A,5,585.23,2024-05-08,789 Curitiba Street,1579,Alimentos
+ORD-876,Produto B,3,589.58,2024-05-17,579 Rio de Janeiro Street,4909,Eletrônicos
+ORD-877,Produto C,5,618.6,2024-02-19,827 Belo Horizonte Street,2039,Eletrônicos
+ORD-878,Produto C,2,963.27,2024-05-30,814 Porto Alegre Street,4568,Esportes
+ORD-879,Produto A,4,134.56,2024-05-31,587 São Paulo Street,1888,Brinquedos
+ORD-880,Produto B,2,17.89,2024-02-21,827 Porto Alegre Street,2241,Brinquedos
+ORD-881,Produto E,1,305.82,2024-06-06,577 Belo Horizonte Street,2150,Eletrônicos
+ORD-882,Produto C,5,520.95,2024-07-10,161 São Paulo Street,3713,Roupas
+ORD-883,Produto E,1,134.95,2024-09-02,818 Belo Horizonte Street,2923,Esportes
+ORD-884,Produto D,4,621.86,2024-05-21,596 Curitiba Street,1305,Eletrônicos
+ORD-885,Produto C,4,370.27,2024-01-13,638 Rio de Janeiro Street,2079,Alimentos
+ORD-886,Produto E,1,591.11,2024-02-04,924 São Paulo Street,4764,Eletrônicos
+ORD-887,Produto E,3,269.51,2024-02-16,890 São Paulo Street,2268,Brinquedos
+ORD-888,Produto D,2,441.71,2024-01-15,268 Rio de Janeiro Street,1017,Eletrônicos
+ORD-889,Produto B,2,188.76,2024-08-28,525 São Paulo Street,3580,Alimentos
+ORD-890,Produto D,4,735.4,2024-02-14,747 Rio de Janeiro Street,1834,Esportes
+ORD-891,Produto C,5,139.77,2024-02-03,834 Curitiba Street,3767,Brinquedos
+ORD-892,Produto E,4,959.99,2024-01-16,380 Curitiba Street,2951,Alimentos
+ORD-893,Produto A,2,510.38,2024-08-22,580 Porto Alegre Street,1163,Roupas
+ORD-894,Produto A,1,498.43,2024-02-14,161 São Paulo Street,1826,Brinquedos
+ORD-895,Produto D,5,672.32,2024-03-19,650 Rio de Janeiro Street,3591,Roupas
+ORD-896,Produto E,1,66.42,2024-07-15,212 Rio de Janeiro Street,2470,Eletrônicos
+ORD-897,Produto B,4,180.09,2024-04-30,380 São Paulo Street,4133,Eletrônicos
+ORD-898,Produto E,2,983.74,2024-07-19,407 Porto Alegre Street,1666,Esportes
+ORD-899,Produto E,3,32.84,2024-08-10,536 São Paulo Street,1299,Alimentos
+ORD-900,Produto C,5,792.37,2024-05-17,122 Porto Alegre Street,4075,Eletrônicos
+ORD-901,Produto E,2,96.77,2024-06-14,995 Rio de Janeiro Street,3214,Eletrônicos
+ORD-902,Produto B,2,488.66,2024-03-22,904 Curitiba Street,1918,Alimentos
+ORD-903,Produto A,4,786.74,2024-01-30,512 Porto Alegre Street,2424,Esportes
+ORD-904,Produto A,3,630.7,2024-07-11,762 Curitiba Street,2554,Esportes
+ORD-905,Produto B,3,91.6,2024-02-01,349 São Paulo Street,1787,Eletrônicos
+ORD-906,Produto E,4,68.41,2024-01-10,153 Curitiba Street,4524,Eletrônicos
+ORD-907,Produto B,1,177.48,2024-06-11,104 Rio de Janeiro Street,1326,Roupas
+ORD-908,Produto D,5,797.99,2024-09-20,101 São Paulo Street,4566,Roupas
+ORD-909,Produto A,5,951.36,2024-02-15,943 São Paulo Street,4565,Brinquedos
+ORD-910,Produto C,5,57.28,2024-08-30,180 Rio de Janeiro Street,1887,Roupas
+ORD-911,Produto A,2,830.74,2024-02-01,766 Rio de Janeiro Street,1363,Eletrônicos
+ORD-912,Produto A,4,969.48,2024-04-22,214 Belo Horizonte Street,2900,Eletrônicos
+ORD-913,Produto B,4,61.89,2024-08-13,577 Rio de Janeiro Street,3670,Roupas
+ORD-914,Produto D,3,335.46,2024-09-13,799 Rio de Janeiro Street,2133,Roupas
+ORD-915,Produto B,5,272.38,2024-01-30,462 Curitiba Street,4184,Alimentos
+ORD-916,Produto E,4,546.56,2024-06-11,473 Rio de Janeiro Street,1134,Brinquedos
+ORD-917,Produto A,2,36.65,2024-01-24,362 São Paulo Street,4854,Brinquedos
+ORD-918,Produto C,1,463.85,2024-04-21,552 Curitiba Street,4933,Roupas
+ORD-919,Produto A,5,343.34,2024-08-16,150 Porto Alegre Street,1503,Roupas
+ORD-920,Produto E,1,662.69,2024-09-29,845 Curitiba Street,2085,Esportes
+ORD-921,Produto B,5,927.38,2024-06-22,231 Belo Horizonte Street,2168,Esportes
+ORD-922,Produto C,3,135.64,2024-03-10,151 Curitiba Street,3337,Alimentos
+ORD-923,Produto E,5,328.55,2024-03-27,683 São Paulo Street,4339,Roupas
+ORD-924,Produto A,4,13.03,2024-03-11,504 São Paulo Street,3883,Alimentos
+ORD-925,Produto C,1,475.22,2024-01-21,575 Rio de Janeiro Street,3735,Brinquedos
+ORD-926,Produto D,5,847.32,2024-06-30,489 Rio de Janeiro Street,4129,Eletrônicos
+ORD-927,Produto A,1,168.17,2024-03-31,304 Belo Horizonte Street,4775,Alimentos
+ORD-928,Produto A,2,318.81,2024-03-12,849 São Paulo Street,1063,Brinquedos
+ORD-929,Produto A,3,133.51,2024-01-11,815 Porto Alegre Street,3969,Alimentos
+ORD-930,Produto D,3,478.95,2024-06-02,526 Rio de Janeiro Street,2335,Eletrônicos
+ORD-931,Produto B,2,353.69,2024-08-30,212 Belo Horizonte Street,4662,Roupas
+ORD-932,Produto C,4,94.91,2024-05-25,895 Rio de Janeiro Street,4802,Alimentos
+ORD-933,Produto D,4,958.31,2024-07-18,275 São Paulo Street,3469,Esportes
+ORD-934,Produto C,4,329.94,2024-02-26,898 Rio de Janeiro Street,4075,Esportes
+ORD-935,Produto E,2,392.72,2024-03-20,542 Rio de Janeiro Street,1279,Alimentos
+ORD-936,Produto C,1,722.22,2024-09-14,714 Rio de Janeiro Street,4592,Roupas
+ORD-937,Produto D,1,134.57,2024-06-27,691 Rio de Janeiro Street,2122,Esportes
+ORD-938,Produto C,3,946.72,2024-02-04,320 Porto Alegre Street,3870,Roupas
+ORD-939,Produto A,4,491.62,2024-06-06,535 Curitiba Street,2747,Roupas
+ORD-940,Produto D,2,181.75,2024-09-27,219 Curitiba Street,3754,Roupas
+ORD-941,Produto A,2,405.03,2024-06-03,882 Belo Horizonte Street,2797,Brinquedos
+ORD-942,Produto E,5,28.16,2024-08-26,347 Belo Horizonte Street,3588,Brinquedos
+ORD-943,Produto A,5,282.54,2024-08-03,652 São Paulo Street,2076,Eletrônicos
+ORD-944,Produto E,3,406.61,2024-06-02,281 Belo Horizonte Street,4361,Roupas
+ORD-945,Produto D,3,472.03,2024-06-21,585 Rio de Janeiro Street,3053,Esportes
+ORD-946,Produto A,1,556.92,2024-06-05,194 Curitiba Street,1568,Alimentos
+ORD-947,Produto A,4,936.25,2024-05-05,342 Curitiba Street,1570,Esportes
+ORD-948,Produto B,3,137.21,2024-05-03,649 Belo Horizonte Street,4214,Eletrônicos
+ORD-949,Produto E,4,620.02,2024-01-20,677 Belo Horizonte Street,4283,Esportes
+ORD-950,Produto D,1,946.71,2024-02-17,568 São Paulo Street,4305,Brinquedos
+ORD-951,Produto C,1,186.89,2024-09-06,513 Rio de Janeiro Street,3751,Eletrônicos
+ORD-952,Produto D,3,409.0,2024-04-20,978 Porto Alegre Street,3765,Brinquedos
+ORD-953,Produto A,3,907.72,2024-03-01,470 Belo Horizonte Street,2859,Eletrônicos
+ORD-954,Produto D,4,726.49,2024-07-11,540 Curitiba Street,4214,Eletrônicos
+ORD-955,Produto C,5,336.9,2024-07-02,285 Curitiba Street,1528,Esportes
+ORD-956,Produto C,1,427.21,2024-09-25,474 Rio de Janeiro Street,3307,Brinquedos
+ORD-957,Produto E,1,971.27,2024-08-28,130 Belo Horizonte Street,2263,Alimentos
+ORD-958,Produto B,4,137.96,2024-03-22,214 Belo Horizonte Street,4582,Brinquedos
+ORD-959,Produto B,2,545.51,2024-04-13,400 Rio de Janeiro Street,3898,Eletrônicos
+ORD-960,Produto E,2,951.96,2024-03-15,953 Rio de Janeiro Street,2676,Esportes
+ORD-961,Produto E,1,184.39,2024-03-14,288 Curitiba Street,1150,Esportes
+ORD-962,Produto D,3,138.13,2024-09-12,998 Rio de Janeiro Street,4087,Roupas
+ORD-963,Produto A,2,627.68,2024-08-25,225 São Paulo Street,4766,Alimentos
+ORD-964,Produto E,1,785.35,2024-07-06,628 Rio de Janeiro Street,2759,Brinquedos
+ORD-965,Produto C,4,88.69,2024-05-21,874 Curitiba Street,1619,Alimentos
+ORD-966,Produto E,2,706.03,2024-02-28,888 Porto Alegre Street,2947,Alimentos
+ORD-967,Produto D,4,557.27,2024-03-04,508 Curitiba Street,1260,Brinquedos
+ORD-968,Produto D,4,475.41,2024-06-13,349 Belo Horizonte Street,4560,Brinquedos
+ORD-969,Produto C,3,605.94,2024-03-20,953 Rio de Janeiro Street,3776,Roupas
+ORD-970,Produto C,5,495.72,2024-03-23,268 São Paulo Street,2324,Esportes
+ORD-971,Produto A,4,222.55,2024-09-20,151 Curitiba Street,4716,Roupas
+ORD-972,Produto B,1,489.22,2024-07-18,858 Porto Alegre Street,4338,Brinquedos
+ORD-973,Produto A,2,427.87,2024-04-23,578 Curitiba Street,4386,Esportes
+ORD-974,Produto C,4,67.53,2024-01-15,578 Porto Alegre Street,2839,Esportes
+ORD-975,Produto A,5,153.52,2024-08-04,850 Belo Horizonte Street,1408,Brinquedos
+ORD-976,Produto D,2,354.49,2024-06-14,604 São Paulo Street,3542,Esportes
+ORD-977,Produto C,2,890.07,2024-09-19,874 Porto Alegre Street,4186,Alimentos
+ORD-978,Produto B,2,120.67,2024-07-23,229 Curitiba Street,1595,Eletrônicos
+ORD-979,Produto D,1,105.96,2024-06-28,876 Curitiba Street,2618,Roupas
+ORD-980,Produto B,4,942.89,2024-07-12,562 Rio de Janeiro Street,1337,Alimentos
+ORD-981,Produto A,3,240.5,2024-05-31,945 São Paulo Street,3796,Brinquedos
+ORD-982,Produto D,1,137.18,2024-01-09,985 Rio de Janeiro Street,4980,Alimentos
+ORD-983,Produto A,3,89.72,2024-09-22,218 Curitiba Street,2277,Alimentos
+ORD-984,Produto D,4,999.32,2024-06-04,431 Curitiba Street,1444,Esportes
+ORD-985,Produto D,4,841.53,2024-09-11,944 Rio de Janeiro Street,2391,Roupas
+ORD-986,Produto D,3,969.06,2024-08-05,491 Rio de Janeiro Street,3961,Alimentos
+ORD-987,Produto D,2,943.3,2024-08-24,666 Porto Alegre Street,2178,Brinquedos
+ORD-988,Produto D,5,950.75,2024-01-26,252 São Paulo Street,4529,Roupas
+ORD-989,Produto D,2,956.23,2024-04-24,210 São Paulo Street,1047,Brinquedos
+ORD-990,Produto B,5,243.16,2024-03-03,201 Belo Horizonte Street,3988,Roupas
+ORD-991,Produto B,1,320.4,2024-09-13,443 São Paulo Street,3786,Brinquedos
+ORD-992,Produto D,1,403.28,2024-01-23,432 Porto Alegre Street,1371,Roupas
+ORD-993,Produto A,2,70.24,2024-04-01,207 Porto Alegre Street,3295,Brinquedos
+ORD-994,Produto B,2,136.66,2024-01-26,436 São Paulo Street,3997,Esportes
+ORD-995,Produto A,3,838.18,2024-07-10,733 Rio de Janeiro Street,2184,Esportes
+ORD-996,Produto D,4,182.12,2024-09-18,782 Curitiba Street,1199,Alimentos
+ORD-997,Produto D,1,527.83,2024-05-02,957 Belo Horizonte Street,4833,Eletrônicos
+ORD-998,Produto A,1,230.3,2024-06-18,738 Belo Horizonte Street,2210,Roupas
+ORD-999,Produto D,1,656.2,2024-02-26,711 Porto Alegre Street,1293,Esportes
+ORD-1000,Produto E,4,971.59,2024-02-05,807 Rio de Janeiro Street,3705,Roupas
