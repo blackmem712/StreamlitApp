@@ -68,11 +68,11 @@ dados = carregar_dados()
 
  
 
-
+with st.container():
   
-col1, col2 = st.columns([1, 1]) # Define duas colunas, cada uma com 50% da largura
+    col1, col_esp,col2 = st.columns([1.2,0.1 ,1]) # Define duas colunas, cada uma com 50% da largura
 
-with col1:
+    with col1:
         # Carrega o gráfico de barras na primeira coluna
    
        col_data_inicio, col_data_fim, col_graph = st.columns([1, 1, 1])
@@ -96,13 +96,42 @@ with col1:
         
 
          
-         st.write(f"Valor máximo de faturamento no período selecionado: R${max_valor:,.2f}")
+
+         
+         
+    with col_esp:
+         st.write("")
+            
+    with col2:
+     st.markdown("")
+     st.markdown("")
+     st.markdown("")
+     st.markdown("")
+     st.markdown("")
+     st.markdown("")
+     st.markdown("")
+     st.markdown("")
+     
+     
+    
+     
+     tabela_pivot = dados.pivot_table(
+     index='Product',         # As linhas serão os produtos
+     columns='Category',      # As colunas serão as categorias
+     values='Price Each',     # Os valores serão o faturamento (Price Each)
+     aggfunc='sum',           # Soma o faturamento para cada combinação
+     fill_value=0             # Substitui valores ausentes por 0
+     )
+ 
+           # Exibir a tabela dinâmica no Streamlit
+ 
+     st.write("###### Tabela de Faturamento por Produto e Categoria")
+     st.markdown("")
+     st.markdown("")
+     st.dataframe(tabela_pivot.style.format("R${:,.2f}"))  # Formatar valores como monetários
+  
 
 
-
-
-
-       
 carregar_grafico_linhas(dados)
 
    
