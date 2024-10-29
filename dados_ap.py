@@ -11,7 +11,7 @@ valor_nulo = tabela.isnull().sum()
 
 #print(valor_nulo)
 
-###### conferir os tipos de dados em cada coluna
+###### conferi os tipos de dados em cada coluna
 tipos_dados = tabela.dtypes
 
 #print(tipos_dados)
@@ -30,7 +30,7 @@ duplicatas = tabela.duplicated().sum()
 
 
 
-###### Verificar se há valores negativos ou iguais a zero nas colunas 'Quantity Ordered' e 'Price Each'
+###### Verifica se há valores negativos ou iguais a zero nas colunas 'Quantity Ordered' e 'Price Each'
 
 verificar_QO = tabela[tabela['Quantity Ordered'] <= 0]
 verificar_PE= tabela[tabela['Price Each'] <= 0]
