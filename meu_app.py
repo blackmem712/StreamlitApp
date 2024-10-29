@@ -15,14 +15,29 @@ def carregar_dados():
     tabela['Price Each'] = tabela['Price Each'].astype(float)    # Converte preços para float
     return tabela
 
+
 # Função para filtrar os dados com base na data de início e data de fim
-def filtrar_data(dados, data_inicio, data_fim):
+
+def filtrar_dados(dados, data_inicio, data_fim, categorias_selecionadas, cidades_selecionadas):
     data_inicio = pd.to_datetime(data_inicio)
     data_fim = pd.to_datetime(data_fim)
-    return dados[(dados['Order Date'] >= data_inicio) & (dados['Order Date'] <= data_fim)]
+    
+    dados_filtrados = dados[(dados['Order Date'] >= data_inicio) & (dados['Order Date'] <= data_fim)]
+
+    if categorias_selecionadas:
+        dados_filtrados = dados_filtrados[dados_filtrados['Category'].isin(categorias_selecionadas)]
+
+    if cidades_selecionadas:
+       dados_filtrados = dados_filtrados[dados_filtrados['Purchase Address'].isin(cidades_selecionadas)]   
+    
+    return dados_filtrados
+   
 
 # Função que carrega o gráfico de barras
 def carregar_grafico_barras(dados_filtrados):
+
+
+
     if dados_filtrados.empty:
         st.warning("Nenhum dado encontrado para o intervalo de datas selecionado.")
         return
@@ -45,9 +60,9 @@ def carregar_grafico_barras(dados_filtrados):
     st.plotly_chart(fig, use_container_width=True)
 
 # Função que carrega o gráfico de linhas
-def carregar_grafico_linhas(dados):
-    dados['Mes'] = dados['Order Date'].dt.to_period('M')
-    dados_agrupados = dados.groupby(['Mes', 'Category'])['Price Each'].sum().reset_index()
+def carregar_grafico_linhas(dados_filtrados):
+    dados_filtrados['Mes'] = dados_filtrados['Order Date'].dt.to_period('M')
+    dados_agrupados = dados_filtrados.groupby(['Mes', 'Category'])['Price Each'].sum().reset_index()
     dados_agrupados['Mes'] = dados_agrupados['Mes'].dt.to_timestamp()
     fig = px.line(dados_agrupados, 
                   x='Mes', 
@@ -68,11 +83,11 @@ dados = carregar_dados()
 
  
 
-with st.container():
-  
-    col1, col_esp,col2 = st.columns([1.2,0.1 ,1]) # Define duas colunas, cada uma com 50% da largura
 
-    with col1:
+  
+col1, col2 = st.columns([1,1]) # Define duas colunas, cada uma com 50% da largura
+
+with col1:
         # Carrega o gráfico de barras na primeira coluna
    
        col_data_inicio, col_data_fim, col_graph = st.columns([1, 1, 1])
@@ -80,42 +95,46 @@ with st.container():
        with col_data_inicio:
         
         data_inicio = st.date_input("Data Início", value=dados['Order Date'].min(), min_value=dados['Order Date'].min(), max_value=dados['Order Date'].max())
-       
+
+        categorias_disponiveis = dados['Category'].unique()
+        
        with col_data_fim:
         data_fim = st.date_input("Data Fim", value=dados['Order Date'].max(), min_value=dados['Order Date'].min(), max_value=dados['Order Date'].max())
       
-       if data_inicio > data_fim:
-         st.error("Erro: A data de início não pode ser depois da data final.")
-
-       else:
-         dados_filtrados = filtrar_data(dados, data_inicio, data_fim) 
-         carregar_grafico_barras(dados_filtrados) 
-
-       if not dados_filtrados.empty:
-         max_valor = dados_filtrados['Price Each'].max()
+        
+        
+        cidades_disponiveis = dados['Purchase Address'].unique() 
         
 
+with col2:
+   categorias_selecionadas = st.multiselect(" ### Selecione a categoria de compra que deseja", options=categorias_disponiveis)
+   cidades_selecionadas = st.multiselect(" ### Selecione a capital de estado que deseja", options = cidades_disponiveis)
+                
          
 
-         
-         
-    with col_esp:
-         st.write("")
-            
-    with col2:
-     st.markdown("")
-     st.markdown("")
-     st.markdown("")
-     st.markdown("")
-     st.markdown("")
-     st.markdown("")
-     st.markdown("")
-     st.markdown("")
-     
-     
+
+        
+col1, col2 = st.columns([1,1]) 
+
+with col1:
+
+        if data_inicio > data_fim:
+         st.error("Erro: A data de início não pode ser depois da data final.")
+
+        else:
+         dados_filtrados = filtrar_dados(dados, data_inicio, data_fim, categorias_selecionadas,cidades_selecionadas) 
+
+         carregar_grafico_barras(dados_filtrados) 
+
+        if not dados_filtrados.empty:
+         max_valor = dados_filtrados['Price Each'].max()   
+   
+
+
+
+with col2:
     
-     
-     tabela_pivot = dados.pivot_table(
+     tabela_pivot = dados_filtrados.pivot_table(
      index='Product',        
      columns='Category',     
      values='Price Each',     
@@ -132,6 +151,4 @@ with st.container():
   
 
 
-carregar_grafico_linhas(dados)
-
-   
+carregar_grafico_linhas(dados_filtrados)
